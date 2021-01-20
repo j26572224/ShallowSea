@@ -14,7 +14,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # sxos轉大氣層指南
 | sxos轉大氣層指南 |
 | --------------- |
-| 1*. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up |
+| 1*. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→band repair GPT |
 | 2. 保留Nintendo，sxos，license.dat，Emutendo |
 | 3. 解壓縮大氣層整合包 |
 | 4. 正常開機會進入hekate menu |
