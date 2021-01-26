@@ -55,6 +55,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater) | 在線更新遊戲金手指(update games cheat code online) |
 | [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
+| [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | ps4 remote play for switch(recommended to overclock to 1220hz) |
 | reboot to payload | / |
 | [missioncontrol](https://github.com/ndeadly/MissionControl/)(only support atmosphere) | 無需額外轉接器，即可直接用第三方手柄藍牙連接switch，etc. ps4手柄(sysmodule for third-party controller support with bluetooth) |
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
@@ -91,6 +92,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater) | 在線更新遊戲金手指(update games cheat code online) |
 | [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
+| [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | ps4 remote play for switch(recommended to overclock to 1220hz) |
 | [sxos boot.dat](https://sx.xecuter.com) | / |
 | [sx autoloader 1.4](https://sx.xecuter.com) | 在桌面直接加載xci相簿遊戲 (auto laod switch xci games on home screen) |
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
