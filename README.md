@@ -63,6 +63,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 | [sx gear](https://sx.xecuter.com) | redirect sxos payload to hekate payload |
+| some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
 
 # sxos整合包包括 sxos package includes :
 | 自製軟件 Homebrew | 用途 Function |
@@ -93,6 +94,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [sxos boot.dat](https://sx.xecuter.com) | / |
 | [sx autoloader 1.4](https://sx.xecuter.com) | 在桌面直接加載xci相簿遊戲 (auto laod switch xci games on home screen) |
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
+| some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
 | [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
 | [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
 | [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
