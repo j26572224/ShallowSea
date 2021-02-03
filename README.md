@@ -45,7 +45,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox) |（可以重新啟動到hekate）(u can choose to reboot to hekate)
 | [NXDumptool](https://github.com/DarkMatterCore/nxdumptool) | （轉儲遊戲卡）(Dump gamecard) |
 | Daybreak | 離線更新系統固件，與sxos不兼容(offline update firmware. Only compatible with atmosphere) |
-| [Choidujournx(大白兔)](https://switchtools.sshnuke.net/) | 離線更新固件。與大氣和sxos兼容(offline update firmware. compatible with both atmosphere and sxos) |
 | [nxmtp](https://github.com/liuervehc/nxmtp) | 使用USB電纜傳輸文件(transfer file with usb cable)|
 | [Nx-shell](https://github.com/joel16/NX-Shell) | switch文件管理器(switch sd file manager) |
 | [JKSV](https://github.com/J-D-K/JKSV) | 功能類似於[checkpoint](https://github.com/FlagBrew/Checkpoint)，導出和導入保存(function as like as [checkpoint](https://github.com/FlagBrew/Checkpoint)，eject or inject save) |
