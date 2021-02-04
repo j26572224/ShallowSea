@@ -54,6 +54,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
 | [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) | 另一個switch文件管理器(another switch sd card file manager) |
 | [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater) | 在線更新遊戲金手指(update games cheat code online) |
+| [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log) | 顯示有關您的遊戲活動的精確信息(displays more precise information about your play activity) |
 | [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
 | [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | ps4 remote play for switch(recommended to overclock to 1220hz) |
@@ -83,7 +84,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [DBI](https://github.com/rashevskyv/dbi) | install games & mtp serves |
 | [Sxdumper](https://sx.xecuter.com) | 轉儲遊戲卡,不支援大氣層 (dump game card & not support atmosphere) |
 | [NXDumptool](https://github.com/DarkMatterCore/nxdumptool) | （轉儲遊戲卡）(Dump gamecard) |
-| [Choidujournx(大白兔)](https://switchtools.sshnuke.net/) | 離線更新固件。與大氣和sxos兼容(offline update firmware. compatible with both atmosphere and sxos) |
+| [Choidujournx(大白兔)](https://switchtools.sshnuke.net/) | 離線更新固件 |
+| [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log) | 顯示有關您的遊戲活動的精確信息(displays more precise information about your play activity) |
 | [nxmtp](https://github.com/liuervehc/nxmtp) | 使用USB電纜傳輸文件(transfer file with usb cable)|
 | [Nx-shell](https://github.com/joel16/NX-Shell) | switch文件管理器(switch sd file manager) |
 | [JKSV](https://github.com/J-D-K/JKSV) | 功能類似於[checkpoint](https://github.com/FlagBrew/Checkpoint)，導出和導入保存(function as like as [checkpoint](https://github.com/FlagBrew/Checkpoint)，eject or inject save) |
