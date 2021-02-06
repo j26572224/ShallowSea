@@ -28,9 +28,11 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [大氣層atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Free & Open source Custom firmware for Nintendo switch |
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | avoid to get ban from Nintendo |
+| 90dns host | new function of atmosphere 0.18.0. Block Nintendo connection |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/jimzrt/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
 | [Nightfall(run it on non-applet mode)(only support atmosphere)](https://github.com/D3fau4/NightFall) | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
+| [amiigo](https://github.com/CompSciOrBust/Amiigo) | A GUI for Emuiibo |
 | [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
 | [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
 | [ftpd pro](https://github.com/mtheall/ftpd) | Allows file transfer over local network via ftp | 
@@ -78,6 +80,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [ftpd4sxos](https://github.com/Falki14/ftpd4sxos) | Allows file transfer over local network via ftp | 
 | [sysdvr](https://github.com/exelix11/SysDVR) | allows capturing the running game output to a pc via USB or network connection |
 | [emuiibo](https://github.com/XorTroll/emuiibo) | 模擬amiibo (amiibo emulation) |
+| [amiigo](https://github.com/CompSciOrBust/Amiigo) | A GUI for Emuiibo |
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
 | [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
 | [linkalho](https://github.com/rdmrocha/linkalho) | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves) |
