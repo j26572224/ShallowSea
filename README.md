@@ -41,7 +41,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [emuiibo](https://github.com/XorTroll/emuiibo) | 模擬amiibo (amiibo emulation) |
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
 | [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
-| [edizon snapshot](https://github.com/WerWolv/EdiZon) | 金手指軟件 (games cheating app) |
+| [edizon](https://github.com/WerWolv/EdiZon) | 金手指軟件 (games cheating app) |
+| [edizon-se](https://github.com/tomvita/EdiZon-SE) | This fork is based on the foundation of EdiZon 3.1 nightly. The changes made are on the game memory hack aspect. |
 | [linkalho](https://github.com/rdmrocha/linkalho) | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves) |
 | [DBI](https://github.com/rashevskyv/dbi) | install games & mtp serves |
 | [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox) |（可以重新啟動到hekate）(u can choose to reboot to hekate)
