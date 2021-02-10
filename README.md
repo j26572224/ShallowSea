@@ -4,7 +4,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * You can download rcmloader package(注入器整合包) from [here](https://github.com/carcaschoi/rcmloader-package)
 * You can download switch firmware(系統固件) from [here](https://darthsternie.net/switch-firmwares/)
 * 按[這裏](https://github.com/carcaschoi/switch-chinese-homebrew-app)下载switch漢化的自制軟件
-# 感謝[@tim22263 梵鈞](https://github.com/tim22263)為ShallowSea整合包製作ShallowSea專用大氣層bootlogo (thx [@tim22263](https://github.com/tim22263) for making the custom bootlogo for aio package.)
+# 感謝[@tim22263 梵鈞](https://github.com/tim22263)為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme (thx [@tim22263](https://github.com/tim22263) for making the custom bootlogo & hbmenu theme for aio package.)
 說明 readme:
 # 更新整合包指南 Update aio-package guide !!!:
 | 中文指南 | English guide |
