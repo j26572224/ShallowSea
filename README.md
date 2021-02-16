@@ -19,7 +19,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 1*. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT |
 | 2. 保留Nintendo，sxos，license.dat，Emutendo |
 | 3. 解壓縮大氣層整合包 |
-| 4. 正常開機會進入hekate menu |
+| 4. 正常開機(軟破機需注入payload.bin)會進入hekate menu |
 | 5*. (sxos有虛擬系統才需做此步驟)，到hekate menu(emuMMC→migrate emuMMC)，只需做一次即可 |
 | 6. 每次開機選launch→CFW Atmosphere |
 | 7. 完成😎 |
