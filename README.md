@@ -112,6 +112,10 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 
+# To do list
+* bat file
+* a online updater for ShallowSea
+
 # Credit:
 * [me](https://github.com/carcaschoi)
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme (making the custom bootlogo & hbmenu theme for aio package.)
