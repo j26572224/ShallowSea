@@ -20,7 +20,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 2. 保留Nintendo，sxos，license.dat，Emutendo |
 | 3. 解壓縮大氣層整合包 |
 | 4. 正常開機(軟破機需注入payload.bin)會進入hekate menu |
-| 5*. (sxos有虛擬系統才需做此步驟)，到hekate menu(emuMMC→migrate emuMMC)，只需做一次即可 |
+| 5*. (sxos有虛擬系統才需做此步驟)，到hekate menu(emuMMC→migrate emuMMC→close→change emuMMC)，只需做一次即可 |
 | 6. 每次開機選launch→CFW Atmosphere |
 | 7. 完成😎 |
 # 大氣層整合包包括 atmosphere package includes:
@@ -59,7 +59,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [themezer-nx](https://github.com/suchmememanyskill/themezer-nx) | A switch theme downloader |
 | [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
 | [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) | 另一個switch文件管理器(another switch sd card file manager) |
-| [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater) | 在線更新遊戲金手指(update games cheat code online) |
 | [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log) | 顯示有關您的遊戲活動的精確信息(displays more precise information about your play activity) |
 | [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
@@ -101,7 +100,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [themezer-nx](https://github.com/suchmememanyskill/themezer-nx) | A switch theme downloader |
 | [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
 | [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) | 另一個switch文件管理器(another switch sd card file manager) |
-| [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater) | 在線更新遊戲金手指(update games cheat code online) |
 | [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
 | [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | ps4 remote play for switch(recommended to overclock to 1220hz) |
