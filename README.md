@@ -30,6 +30,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | Block Nintendo connection & avoid to get ban from Nintendo |
 | 90dns host | new function of atmosphere 0.18.0. Block Nintendo connection & avoid to get ban from N |
+| [BootSoundNX](https://github.com/KranKRival/BootSoundNX) | plays sound on the nintendo switch boot |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
 | [Nightfall(run it on non-applet mode)(only support atmosphere)](https://github.com/D3fau4/NightFall) | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
@@ -68,7 +69,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
 | [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
 | [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
-| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
+| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | toggle sysmodule on or off |
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 | [sx gear](https://sx.xecuter.com) | redirect sxos payload to hekate payload |
 | some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
@@ -79,6 +80,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
 | [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
+| [BootSoundNX](https://github.com/KranKRival/BootSoundNX) | plays sound on the nintendo switch boot |
 | [HekateBrew](https://github.com/bemardev/HekateBrew/) | check it from [here](https://github.com/bemardev/HekateBrew/#features) |
 | [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
 | [ftpd4sxos](https://github.com/Falki14/ftpd4sxos) | Allows file transfer over local network via ftp | 
@@ -109,7 +111,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
 | [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
 | [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
-| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
+| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | toggle sysmodule on or off |
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 
 # To do list
