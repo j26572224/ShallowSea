@@ -27,6 +27,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [大氣層atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Free & Open source Custom firmware for Nintendo switch |
+| [Neutos](https://github.com/borntohonk/NeutOS) | the kernel I am using. A modded version of atmosphere |
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | Block Nintendo connection & avoid to get ban from Nintendo |
 | 90dns host | new function of atmosphere 0.18.0. Block Nintendo connection & avoid to get ban from N |
