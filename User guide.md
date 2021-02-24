@@ -13,7 +13,7 @@
 | 3. 點選launch | 3. press 「launch」|
 | 4. 如果你是使用大氣層/sxos，點選CFW Atmosphere/CFW SXOS，有虛擬系統的話它會自動引導到虛擬系統 | 4. press 「CFW Atmosphere」 if u r using atmosphere. press 「CFW SXOS」 if u r using sxos. They will launch emuMMC/emunand automatically if u have emuMMC/emunand |
 
-# sxos轉大氣層指南
+# sxos轉大氣層指南 Change sxos to atmosphere
 | 中文 | English |
 | --- | ------- |
 | 1. 先到sxos破解系統用JKSV備份存檔 | ……
