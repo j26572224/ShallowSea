@@ -12,13 +12,16 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載整合包「Shalloesea.rar」 | Download aio package「Shallowsea.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) |
 | 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「atmosphere X.XX.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders. Then drape and drop shallowsea/atmosphere X.XX.X/ into your sd card. |
 | 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「sxos X.X.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
+# 使用方法 How to use
+1. 注入整合包的payload.bin(hekate) inject the payload.bin(hekate) which is inside the aio package
+2. 進入
 # sxos轉大氣層指南
 1. 先到sxos破解系統用JKSV備份存檔
 2. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT
-3. 保留Nintendo，sxos，license.dat，Emutendo
+3. 保留Nintendo，license.dat
 4. 解壓縮大氣層整合包 |
 5. 正常開機(軟破機需注入payload.bin)會進入hekate menu
-6. (sxos有虛擬系統才需做此步驟)，到hekate menu(emuMMC→migrate emuMMC→close→change emuMMC)，只需做一次即可 
+6. (sxos有虛擬系統才需做此步驟)，到hekate menu，點選emuMMC→create emuMMC→sd file (只需做一次即可)
 7. 每次開機選launch→CFW Atmosphere
 8. 完成😎
 # 大氣層整合包包括 atmosphere package includes:
