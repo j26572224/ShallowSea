@@ -6,7 +6,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 按[這裏](https://github.com/carcaschoi/switch-chinese-homebrew-app)下载switch漢化的自制軟件
 
 說明 readme:
-# [按這裏看指南 (watch user guide by clicking here)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
+# [按這裏看指南 (read user guide by clicking here)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # 大氣層整合包包括 atmosphere package includes:
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
