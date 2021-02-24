@@ -1,4 +1,4 @@
-# 更新整合包指南 Update aio-package guide !!!:
+# 更新整合包指南 Update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
 | 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載整合包「Shalloesea.rar」 | Download aio package「Shallowsea.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) |
