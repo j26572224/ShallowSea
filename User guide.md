@@ -14,11 +14,12 @@
 | 4. 如果你是使用大氣層/sxos，點選CFW Atmosphere/CFW SXOS，有虛擬系統的話它會自動引導到虛擬系統 | 4. press 「CFW Atmosphere」 if u r using atmosphere. press 「CFW SXOS」 if u r using sxos. They will launch emuMMC/emunand automatically if u have emuMMC/emunand |
 
 # sxos轉大氣層指南
-1. 先到sxos破解系統用JKSV備份存檔
-2. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT
-3. 保留Nintendo，license.dat
-4. 解壓縮大氣層整合包 |
-5. 正常開機(軟破機需注入payload.bin)會進入hekate menu
-6. (sxos有虛擬系統才需做此步驟)，到hekate menu，點選emuMMC→create emuMMC→sd file (只需做一次即可)
-7. 每次開機選launch→CFW Atmosphere
-8. 完成😎
+| 中文 | English |
+| 1. 先到sxos破解系統用JKSV備份存檔 | 
+| 2. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT | ……
+| 3. 保留Nintendo，license.dat，JKSV | ……
+| 4. 解壓縮大氣層整合包 | ……
+| 5. 正常開機(軟破機需注入payload.bin)會進入hekate menu | ……
+| 6. (sxos有虛擬系統才需做此步驟)，到hekate menu，點選emuMMC→create emuMMC→sd file (只需做一次即可) | ……
+| 7. 每次開機選launch→CFW Atmosphere | ……
+| 8. 完成😎 | ……
