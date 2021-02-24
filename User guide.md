@@ -5,11 +5,13 @@
 | 2. 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「atmosphere X.XX.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | 2. If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders. Then drape and drop shallowsea/atmosphere X.XX.X/ into your sd card. |
 | 2. 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「sxos X.X.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | 2. If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
 
-# 使用方法 How to use
-1. 注入整合包的payload.bin(hekate) inject the payload.bin(hekate) which is inside the aio package
-2. 進入hekate menu (get into hekate menu)
-3. 點選launch (press 「launch」)
-4. 如果你是使用大氣層/sxos，點選CFW Atmosphere/CFW SXOS，有虛擬系統的話它會自動引導到虛擬系統 (press 「CFW Atmosphere」 if u r using atmosphere. press 「CFW SXOS」 if u r using sxos. They will launch emuMMC/emunand automatically if u have emuMMC/emunand 
+# 使用方法 How to use:
+| 中文 | English |
+| --- | ------- |
+| 1. 注入整合包的payload.bin(hekate) | 1. inject the payload.bin(hekate) which is inside the aio package |
+| 2. 進入hekate menu | 2. get into hekate menu |
+| 3. 點選launch | 3. press 「launch」|
+| 4. 如果你是使用大氣層/sxos，點選CFW Atmosphere/CFW SXOS，有虛擬系統的話它會自動引導到虛擬系統 | 4. press 「CFW Atmosphere」 if u r using atmosphere. press 「CFW SXOS」 if u r using sxos. They will launch emuMMC/emunand automatically if u have emuMMC/emunand |
 
 # sxos轉大氣層指南
 1. 先到sxos破解系統用JKSV備份存檔
