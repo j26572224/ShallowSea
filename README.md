@@ -14,7 +14,9 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「sxos X.X.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
 # 使用方法 How to use
 1. 注入整合包的payload.bin(hekate) inject the payload.bin(hekate) which is inside the aio package
-2. 進入
+2. 進入hekate menu (get into hekate menu)
+3. 點選launch (press 「launch」)
+4. 如果你是使用大氣層/sxos，點選CFW Atmosphere/CFW SXOS，有虛擬系統的話它會自動引導到虛擬系統 (press 「CFW Atmosphere」 if u r using atmosphere. press 「CFW SXOS」 if u r using sxos. They will launch emuMMC/emunand automatically if u have emuMMC/emunand 
 # sxos轉大氣層指南
 1. 先到sxos破解系統用JKSV備份存檔
 2. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT
@@ -30,8 +32,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [大氣層atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Free & Open source Custom firmware for Nintendo switch |
 | [Neutos](https://github.com/borntohonk/NeutOS) | the atmosphere kernel I am using. A modded version of atmosphere |
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
-| exosphere.ini（應用了隱身模式）(Incognito applied) | Block Nintendo connection & avoid to get ban from Nintendo |
-| 90dns host | new function of atmosphere 0.18.0. Block Nintendo connection & avoid to get ban from N |
+| exosphere.ini（應用了隱身模式）(Incognito applied) | Block Big N connection & avoid to get ban from Big N |
+| 90dns host | new function of atmosphere 0.18.0. Block Big N connection & avoid to get ban from Big N |
 | [BootSoundNX](https://github.com/KranKRival/BootSoundNX) | plays sound on the nintendo switch boot |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
