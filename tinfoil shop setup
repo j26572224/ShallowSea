@@ -15,6 +15,12 @@ Host: tiny.cc
 Path: eeveesaveproject
 Title: Eevee Save Project
 
+# UnderBackup 
+Protocol: https
+Host: rebrand.ly
+Path: UnderBack
+Title: UnderBackup
+
 # ReDUMP SHOP (removed since v1.3.1)(high probability tinfoil crash)
 Protocol: https
 Host: redump.ga
@@ -25,9 +31,3 @@ Protocol: https
 Host: rebrand.ly
 Path: UPStash
 Title: UPStash
-
-# UnderBackup (removed since v1.3.1)(cannot use 14/1/2021)
-Protocol: https
-Host: rebrand.ly
-Path: UnderBack
-Title: UnderBackup
