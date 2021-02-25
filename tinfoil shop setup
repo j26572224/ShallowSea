@@ -21,12 +21,12 @@ Host: rebrand.ly
 Path: UnderBack
 Title: UnderBackup
 
-# ReDUMP SHOP (removed since v1.3.1)(high probability tinfoil crash)
+# ReDUMP SHOP
 Protocol: https
 Host: redump.ga
 Title: ReDUMP Shop
 
-# UnderPack (removed since v1.3.1)(cannot use 14/1/2021)
+# UnderPack (removed since v1.3.1)(cannot use，test on 25/2/2021)
 Protocol: https
 Host: rebrand.ly
 Path: UPStash
