@@ -104,4 +104,4 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 我 me
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme (making the custom bootlogo & hbmenu theme for aio package.)
-* [@保羅 paulzheng](https://www.91wii.com/space-uid-2331119.html) 一 為ShallowSea整合包進行詳細分析，並指出我的人為錯誤 (make a chinese review for ShallowSea aio package & let me know some mistake I have made)
+* [91wii論壇網友分析ShallowSea整合包](https://www.91wii.com/forum.php?mod=viewthread&tid=231061&extra=&page=1&mobile=2) 感谢91wii论坛坛友進行詳細分析和建议(make a chinese review for ShallowSea aio package)
