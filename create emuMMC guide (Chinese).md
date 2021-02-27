@@ -1,4 +1,5 @@
 # atmosphere create sd file emuMMC :
+* 需要確保microSD卡上有32gb的可用空間
 1. 进入到hekate menu的UI界面
 
 ![1562381376676](https://user-images.githubusercontent.com/64573431/109381757-26608300-7917-11eb-89b3-7292d420ad42.png)
@@ -19,6 +20,7 @@
 6. 完成😎
 
 # SXOS create sd file emuMMC :
+* 需要確保microSD卡上有32gb的可用空間
 1. 確保按住switch上的音量+按鈕直到进入到sxos menu
 
 ![xecuter-bootloader](https://user-images.githubusercontent.com/64573431/109382168-c0292f80-7919-11eb-95b0-a29dbd58ace9.png)
