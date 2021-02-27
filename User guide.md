@@ -9,7 +9,7 @@
 # 使用方法 How to use:
 | 中文 | English |
 | --- | ------- |
-| 1.1 . 用tegrarcmgui注入整合包的ShallowSea/payload for injection/payload.bin  | 1.1 . use tegrarcmgui to inject the ShallowSea/payload for injection/payload.bin which is inside the aio package |
+| 1.1 . 用[tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest)注入整合包的ShallowSea/payload for injection/payload.bin  | 1.1 . use [tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest) to inject the ShallowSea/payload for injection/payload.bin which is inside the aio package |
 | 1.2 . 或者[更新注入器檔案](https://github.com/carcaschoi/rcmloader-package)後，使用rcmloader注入(使用藍燈) | 1.2 . or using rcmloader(blue light) to inject payload after [updating rcmloader file](https://github.com/carcaschoi/rcmloader-package)
 | 2. 進入hekate menu | 2. get into hekate menu |
 | 3. 第一次使用的話建議創建虛擬系統，[大氣層&SXOS創建虛擬系統指南(點擊查看)](https://github.com/carcaschoi/ShallowSea/blob/main/create%20emuMMC%20guide%20(Chinese).md) | 3. recommended to create emuMMC/emunand if u r first time to hack switch |
