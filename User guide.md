@@ -1,18 +1,20 @@
 # 更新整合包指南 Update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
-| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載整合包「Shalloesea.rar」，從[這裡](https://github.com/carcaschoi/rcmloader-package)下載rcmloader | 1. Download aio package「Shallowsea.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) , and also download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package) (optional) |
+| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea.rar」，並從[這裡](https://github.com/carcaschoi/rcmloader-package)下載rcmloader注入器整合包 | 1. Download ShallowSea aio package「Shallowsea.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) , and also download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package) (optional) |
 | 2. 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「atmosphere X.XX.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | 2. If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders. Then drape and drop shallowsea/atmosphere X.XX.X/ into your sd card. |
 | 2. 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「sxos X.X.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | 2. If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
-| 3. | 3. extract [rcmloader package](https://github.com/carcaschoi/rcmloader-package) to your rcmloader if u have it |
+| 3. 如果你有注入器，請把[注入器整合包](https://github.com/carcaschoi/rcmloader-package)解壓縮到注入器 | 3. extract [rcmloader package](https://github.com/carcaschoi/rcmloader-package) to your rcmloader if u have it |
 
 # 使用方法 How to use:
 | 中文 | English |
 | --- | ------- |
-| 1. 注入整合包的ShallowSea/payload for injection/payload.bin  | 1. inject the ShallowSea/payload for injection/payload.bin which is inside the aio package |
+| 1.1 . 用tegrarcmgui注入整合包的ShallowSea/payload for injection/payload.bin  | 1.1 . use tegrarcmgui to inject the ShallowSea/payload for injection/payload.bin which is inside the aio package |
+| 1.2 . 或者[更新注入器檔案](https://github.com/carcaschoi/rcmloader-package)後，使用rcmloader注入(使用藍燈) | 1.2 . or using rcmloader(blue light) to inject payload after [updating rcmloader file](https://github.com/carcaschoi/rcmloader-package)
 | 2. 進入hekate menu | 2. get into hekate menu |
-| 3. 點選launch | 3. press 「launch」|
-| 4. 如果你是使用大氣層，點選CFW Atmosphere ; 如果你是使用sxos，點選CFW SXOS，有虛擬系統的話它會自動引導到虛擬系統 | 4. press 「CFW Atmosphere」 if u r using atmosphere. press 「CFW SXOS」 if u r using sxos. They will launch emuMMC/emunand automatically if u have emuMMC/emunand |
+| 3. 第一次使用的話建議創建虛擬系統，[大氣層創建虛擬系統指南(點擊查看)]() | 3. recommended to create emuMMC/emunand if u r first time to hack switch |
+| 4. 點選launch | 4. press 「launch」|
+| 5. 如果你是使用大氣層，點選CFW Atmosphere ; 如果你是使用sxos，點選CFW SXOS，有虛擬系統的話它會自動引導到虛擬系統 | 5. press 「CFW Atmosphere」 if u r using atmosphere. press 「CFW SXOS」 if u r using sxos. They will launch emuMMC/emunand automatically if u have emuMMC/emunand |
 
 # sxos轉大氣層指南 Change sxos to atmosphere
 | 中文 | English |
