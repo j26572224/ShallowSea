@@ -1,4 +1,4 @@
-# atmosphere create sd file emuMMC :
+# 大氣層創建sd file 虛擬系統 :
 * 需要確保microSD卡上有32gb的可用空間
 1. 进入到hekate menu的UI界面
 
@@ -19,7 +19,7 @@
 5. 制作成功后，点击右上角的Close兩次
 6. 完成😎
 
-# SXOS create sd file emuMMC :
+# SXOS創建sd file 虛擬系統 :
 * 需要確保microSD卡上有32gb的可用空間
 1. 確保按住switch上的音量+按鈕直到进入到sxos menu
 
