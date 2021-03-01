@@ -26,5 +26,6 @@
 | 5. 正常開機(軟破機需注入payload.bin)會進入hekate menu | ……
 | 6. (sxos有虛擬系統才需做此步驟)，https://github.com/carcaschoi/ShallowSea/blob/main/create%20emuMMC%20guide%20(Chinese).md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E5%89%B5%E5%BB%BAsd-file-%E8%99%9B%E6%93%AC%E7%B3%BB%E7%B5%B1- | ……
 | 7. 每次開機選launch→CFW Atmosphere | ……
+| *. 如果硬破機出現boot0 error，https://www.sthetix.info/generating-a-fresh-boot0-from-scratch-fix-your-switch-now/ | …… |
 | 8. 完成😎 | ……
 | 9. 有需要的話可以用JKSV還原存檔 | ……
