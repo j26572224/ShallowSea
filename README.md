@@ -49,7 +49,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
 | [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) | 另一個switch文件管理器(another switch sd card file manager) |
 | [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log) | 顯示有關您的遊戲活動的精確信息(displays more precise information about your play activity) |
-| [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
+| [switch-time](https://github.com/3096/switch-time/) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
 | [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | ps4 remote play for switch(recommended to overclock to 1220hz) |
 | reboot to payload | / |
@@ -89,7 +89,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [themezer-nx](https://github.com/suchmememanyskill/themezer-nx) | A switch theme downloader |
 | [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
 | [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) | 另一個switch文件管理器(another switch sd card file manager) |
-| [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
+| [switch-time](https://github.com/3096/switch-time/) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
 | [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | ps4 remote play for switch(recommended to overclock to 1220hz) |
 | [sxos boot.dat](https://sx.xecuter.com) | / |
