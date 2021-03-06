@@ -95,7 +95,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [sx autoloader 1.4](https://sx.xecuter.com) | 在桌面直接加載xci相簿遊戲 (auto laod switch xci games on home screen) |
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
 | some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
-| [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
+| [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 
 # To do list
 * bat file
