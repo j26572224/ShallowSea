@@ -73,7 +73,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
 | [ftpd4sxos](https://github.com/Falki14/ftpd4sxos) | Allows file transfer over local network via ftp | 
 | [sysdvr](https://github.com/exelix11/SysDVR) | allows capturing the running game output to a pc via USB or network connection |
-| [emuiibo](https://github.com/XorTroll/emuiibo) | 模擬amiibo (amiibo emulation) |
 | [amiigo](https://github.com/CompSciOrBust/Amiigo) | A GUI for Emuiibo |
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
 | [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
@@ -97,9 +96,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
 | some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
 | [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
-| [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
-| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | toggle sysmodule on or off |
-| [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 
 # To do list
 * bat file
