@@ -5,8 +5,7 @@ Title: JITS
 
 # QuotaShop
 Protocol: https
-Host: tiny.cc
-Path: quotad
+Host: quotashop.ml
 Title: QuotaShop
 
 # Eevee Save Project
