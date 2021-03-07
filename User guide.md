@@ -1,8 +1,10 @@
 # 更新整合包指南 Update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
-| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea.rar」，並從[這裡](https://github.com/carcaschoi/rcmloader-package)下載rcmloader注入器整合包 | 1. Download ShallowSea aio package「Shallowsea.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) , and also download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package) (optional) |
-| 2. 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「atmosphere X.XX.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | 2. If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders. Then drape and drop shallowsea/atmosphere X.XX.X/ into your sd card. |
+| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」，並從[這裡](https://github.com/carcaschoi/rcmloader-package)下載rcmloader注入器整合包 | 1. Download ShallowSea aio package「Shallowsea-ams.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) , and also download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package) (optional) |
+| 2. 除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾，刪除其餘文件夾。然後打開「ShallowSea-ams」文件夾，把裏面所有東西解壓縮放到SD卡中。 | 2. Delete all the folders except (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders or files. Then open the 「ShallowSea-ams」folder and drapes and drops its contents into your sd card. Replace all existing file |
+| 3. [點此繼續查看]() | press here to continue |
+
 | 2. 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後打開「ShallowSea」文件夾，再打開「sxos X.X.X」文件夾，把裏面所有東西解壓縮放到SD卡中。 | 2. If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
 | 3. 如果你有注入器，請把[注入器整合包](https://github.com/carcaschoi/rcmloader-package)解壓縮到注入器 | 3. extract [rcmloader package](https://github.com/carcaschoi/rcmloader-package) to your rcmloader if u have it |
 
