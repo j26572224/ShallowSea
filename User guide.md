@@ -1,3 +1,4 @@
+- [大氣層更新整合包指南](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 # 大氣層更新整合包指南 Atmosphere update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
