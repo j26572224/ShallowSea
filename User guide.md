@@ -1,4 +1,4 @@
-# 更新整合包指南 Update aio-package guide:
+# 大氣層更新整合包指南 Atmosphere update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
 | 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」，並從[這裡](https://github.com/carcaschoi/rcmloader-package)下載rcmloader注入器整合包 | 1. Download ShallowSea aio package「Shallowsea-ams.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) , and also download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package) (optional) |
