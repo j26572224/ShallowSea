@@ -30,3 +30,8 @@ Protocol: https
 Host: rebrand.ly
 Path: UPStash
 Title: UPStash
+
+# Pengu shop (not tested)
+Protocol: http
+Host: pengu.ga
+Title: Pengu shop
