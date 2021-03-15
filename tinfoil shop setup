@@ -25,13 +25,15 @@ Protocol: https
 Host: redump.ga
 Title: ReDUMP Shop
 
+# Pengu shop
+Protocol: http
+Host: pengu.ga
+Title: Pengu shop
+
+
 # UnderPack (disabled since v1.3.1)(cannot use，test on 14/3/2021)
 Protocol: https
 Host: rebrand.ly
 Path: UPStash
 Title: UPStash
 
-# Pengu shop (disabled)(cannot use，test on 14/3/2021)
-Protocol: http
-Host: pengu.ga
-Title: Pengu shop
