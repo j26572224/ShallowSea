@@ -32,6 +32,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [sysdvr](https://github.com/exelix11/SysDVR) | allows capturing the running game output to a pc via USB or network connection |
 | [emuiibo](https://github.com/XorTroll/emuiibo) | 模擬amiibo (amiibo emulation) |
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
+| [Tencent-switcher-gui](https://github.com/CaiMiao/Tencent-switcher-GUI/) | switching Tencent features from/to global version |
 | [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
 | [edizon](https://github.com/WerWolv/EdiZon) | 金手指軟件 (games cheating app) |
 | [edizon-se](https://github.com/tomvita/EdiZon-SE) | This fork is based on the foundation of EdiZon 3.1 nightly. The changes made are on the game memory hack aspect. |
@@ -82,6 +83,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [NXDumptool](https://github.com/DarkMatterCore/nxdumptool) | （轉儲遊戲卡）(Dump gamecard) |
 | [Choidujournx(大白兔)](https://switchtools.sshnuke.net/) | 離線更新固件 |
 | [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log) | 顯示有關您的遊戲活動的精確信息(displays more precise information about your play activity) |
+| [Tencent-switcher-gui](https://github.com/CaiMiao/Tencent-switcher-GUI/) | switching Tencent features from/to global version |
 | [nxmtp](https://github.com/liuervehc/nxmtp) | 使用USB電纜傳輸文件(transfer file with usb cable)|
 | [Nx-shell](https://github.com/joel16/NX-Shell) | switch文件管理器(switch sd file manager) |
 | [JKSV](https://github.com/J-D-K/JKSV) | 功能類似於[checkpoint](https://github.com/FlagBrew/Checkpoint)，導出和導入保存(function as like as [checkpoint](https://github.com/FlagBrew/Checkpoint)，eject or inject save) |
@@ -95,6 +97,10 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [sx autoloader 1.4](https://sx.xecuter.com) | 在桌面直接加載xci相簿遊戲 (auto laod switch xci games on home screen) |
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
 | some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
+| [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
+| [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
+| [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
+| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | toggle sysmodule on or off |
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 
 # To do list
