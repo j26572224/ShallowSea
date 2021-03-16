@@ -8,7 +8,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 說明 readme:
 # [按這裏看指南 (read user guide by clicking here)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # Feature
-* always up-to-date atmosphere with sigpatch
+* always up-to-date atmosphere(now is using neutos) with sigpatch
 * incognito exosphere.ini & 90dns host applied with atmosphere
 * I have already setup hbg shop setting
 # 大氣層整合包包括 atmosphere package includes:
