@@ -8,6 +8,7 @@ add amiiswap
 #sxos
 add nx-ovlloader
 add emuiibo
+add syscon
 
 add bat file
 need some time to 整理 file
