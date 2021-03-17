@@ -10,7 +10,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # Feature
 * always up-to-date atmosphere(now is using neutos) with sigpatch
 * incognito exosphere.ini & 90dns host applied with atmosphere
-* I have already setup hbg shop setting
+* I have already setup hbg shop , [here is the setting](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
 # 大氣層整合包包括 atmosphere package includes:
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
@@ -21,7 +21,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 90dns host | new function of atmosphere 0.18.0. Block Big N connection & avoid to get ban from Big N |
 | [BootSoundNX](https://github.com/KranKRival/BootSoundNX) | plays sound on the nintendo switch boot |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
-| hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
+| hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)) | download piracy games directly to switch |
 | [Nightfall(run it on non-applet mode)(only support atmosphere)](https://github.com/D3fau4/NightFall) | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
 | [HekateBrew](https://github.com/bemardev/HekateBrew/) | check it from [here](https://github.com/bemardev/HekateBrew/#features) |
 | [amiigo](https://github.com/CompSciOrBust/Amiigo) | A GUI for Emuiibo |
@@ -67,7 +67,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
-| hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
+| hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)) | download piracy games directly to switch |
 | [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
 | [BootSoundNX](https://github.com/KranKRival/BootSoundNX) | plays sound on the nintendo switch boot |
 | [HekateBrew](https://github.com/bemardev/HekateBrew/) | check it from [here](https://github.com/bemardev/HekateBrew/#features) |
