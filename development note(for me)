@@ -5,6 +5,7 @@ nxtheme chinese to English
 add staley nx , nx fps
 find sysclk config file
 sysclk chinese 000
+remove edizon se & nxthemeinstaller(chinese)
 update monitor - finished
 
 readme:
@@ -19,3 +20,7 @@ tinwoo 不錯用
 如果C大也有跟我一樣的感覺
 https://gbatemp.net/threads/tinwoo-installer.579661/
 這個主題可以套用一下
+
+# chinese remove
+edizon se v3.8.10 (too old)
+nxthemeinstaller (poor compatility)
