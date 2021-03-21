@@ -1,4 +1,4 @@
-This guide is updated on 20/3/2021
+This guide is updated on 21/3/2021
 # 目錄 table of contents
 - [大氣層更新整合包指南 Atmosphere update aio-package guide](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 - [sxos更新整合包指南 sxos update aio-package guide](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#sxos%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-sxos-update-aio-package-guide)
@@ -25,7 +25,7 @@ This guide is updated on 20/3/2021
 # 使用方法 How to use:
 | 中文 | English |
 | --- | ------- |
-| 1.1 . 用[tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest)注入release附有的payload.bin  | 1.1 . use [tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest) to inject the ShallowSea/payload for injection/payload.bin which is inside the aio package |
+| 1.1 . 用[tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest)注入release附有的payload.bin(the same payload in every releases, not any update)  | 1.1 . use [tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest) to inject the payload.bin enclose the releases(the same payload in every releases, not any update) |
 | 1.2 . 或者[更新注入器檔案](https://github.com/carcaschoi/rcmloader-package)後，使用rcmloader注入(使用藍燈) | 1.2 . or using rcmloader(blue light) to inject payload after [updating rcmloader file](https://github.com/carcaschoi/rcmloader-package)
 | 2. 進入hekate menu | 2. get into hekate menu |
 | 3. 第一次使用的話建議創建虛擬系統，[大氣層&SXOS創建虛擬系統指南(點擊查看)](https://github.com/carcaschoi/ShallowSea/blob/main/create%20emuMMC%20guide%20(Chinese).md) | 3. recommended to create emuMMC/emunand if u r first time to hack switch |
