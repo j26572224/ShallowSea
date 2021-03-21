@@ -8,14 +8,14 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 說明 readme:
 # [按這裏看指南 (read user guide by clicking here)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # Feature
-* always up-to-date atmosphere(now is using neutos) with sigpatch
+* always up-to-date atmosphere with sigpatch
+* reinx spoof
 * incognito exosphere.ini & 90dns host applied with atmosphere
 * I have already setup hbg shop , [here is the setting](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
 # 大氣層整合包包括 atmosphere package includes:
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [大氣層atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Free & Open source Custom firmware for Nintendo switch |
-| [Neutos](https://github.com/borntohonk/NeutOS) | the atmosphere kernel I am using. A modded version of atmosphere |
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | Block Big N connection & avoid to get ban from Big N |
 | 90dns host | new function of atmosphere 0.18.0. Block Big N connection & avoid to get ban from Big N |
