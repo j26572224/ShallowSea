@@ -27,7 +27,7 @@ This guide is updated on 24/3/2021
 **cons**
 * cannot get support from official [Atmosphere-NX](https://github.com/Atmosphere-NX/Atmosphere) bacause NeutOS is a modded version of atmosphere
 * If the owner of neutos does not update neutos, then you cannot use the latest version of atmosphere
-* 
+
 # 大氣層更新整合包指南 Atmosphere update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
