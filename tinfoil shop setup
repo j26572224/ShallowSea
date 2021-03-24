@@ -30,12 +30,12 @@ Protocol: http
 Host: pengu.ga
 Title: Pengu shop
 
-# Stealth Shop (not tested)
+# Stealth Shop
 Protocol: https
 Host: stealthshop.ga
 Title: Stealth Shop
 
-# UnderPack (disabled since v1.3.1)(cannot use，test on 14/3/2021)
+# UnderPack
 Protocol: https
 Host: rebrand.ly
 Path: UPStash
