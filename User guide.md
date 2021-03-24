@@ -8,6 +8,16 @@ This guide is updated on 21/3/2021
 - [魔改sxos 3.1.0以支持11.0.1 modify sxos 3.1.0 to support 11.0.1](https://shipengliang.com/games/switch-%e7%a1%ac%e7%a0%b4%e8%ae%be%e5%a4%87-11-0-1-%e7%9c%9f%e5%ae%9e%e7%b3%bb%e7%bb%9f-%e9%ad%94%e6%94%b9%e6%94%af%e6%8c%81sx-3-1-0%e5%bc%95%e5%af%bc%e5%9b%be%e6%96%87%e6%95%99%e7%a8%8b.html)
 
 # What is the Different between [ShallowSea-ams+reinxspoof.rar] & [ShallowSea-neutos]
+=== **ShallowSea-ams+reinxspoof** ===
+
+**pros**
+* compatible
+
+=== **ShallowSea-neutos** ===
+
+**cons**
+* cannot get support from official [Atmosphere-NX](https://github.com/Atmosphere-NX/Atmosphere) bacause NeutOS is a modded version of atmosphere
+* If the owner of neutos does not update neutos, then you cannot use the latest version of atmosphere
 # 大氣層更新整合包指南 Atmosphere update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
