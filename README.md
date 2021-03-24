@@ -12,7 +12,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * reinx spoof
 * incognito exosphere.ini & 90dns host applied with atmosphere
 * I have already setup hbg shop , [here is the setting](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
-# 大氣層整合包包括 atmosphere package includes:
+#
+### 大氣層整合包包括 atmosphere package includes:
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [大氣層atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Free & Open source Custom firmware for Nintendo switch |
@@ -63,7 +64,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [sx gear](https://sx.xecuter.com) | redirect sxos payload to hekate payload |
 | some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
 
-# sxos整合包包括 sxos package includes :
+#
+### sxos整合包包括 sxos package includes :
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
