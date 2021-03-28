@@ -18,3 +18,6 @@
 **cons**
 * cannot get support from official [Atmosphere-NX](https://github.com/Atmosphere-NX/Atmosphere) bacause NeutOS is a modded version of atmosphere
 * If the owner of neutos does not update neutos, then you cannot use the latest version of atmosphere
+
+
+* **For [ShallowSea-ams+reinxspoof.rar]** If there is an error when running some homebrew app that force atmosphere to run, you may disable **ReiNX-Spoofer** by using tesla menu or deepsea toolbox before running these homebrew app
