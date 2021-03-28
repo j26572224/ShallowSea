@@ -12,7 +12,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * incognito exosphere.ini & 90dns host applied with atmosphere
 * I have already setup hbg shop , [here is the setting](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
 #
-### 大氣層整合包包括 atmosphere package includes:
+### NeutOS整合包包括 NeutOS package includes:
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [NeutOS](https://github.com/borntohonk/NeutOS) | modded version of atmosphere. Free & Open source Custom firmware for Nintendo switch |
