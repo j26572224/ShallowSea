@@ -1,7 +1,9 @@
-# JITS
+7/4 update: add Turtle shop
+
+# Jits
 Protocol: https
 Host: jits.cc
-Title: JITS
+Title: Jits
 
 # QuotaShop
 Protocol: https
@@ -41,3 +43,8 @@ Host: rebrand.ly
 Path: UPStash
 Title: UPStash
 
+# Turtle Shop (tits)
+Protocol: https
+Host: tiny.cc
+Path: turtleshop
+Title: Tits
