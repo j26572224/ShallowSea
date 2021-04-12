@@ -13,7 +13,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * I have already setup hbg shop , [here is the setting](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
 
 # Donations 捐款
- ̶你̶們̶的̶m̶o̶n̶e̶y̶就̶是̶我̶更̶新̶整̶合̶包̶最̶大̶的̶動̶力̶X̶D̶
+### 歡迎捐款😊(稍後update)
 
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 我 me
