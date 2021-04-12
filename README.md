@@ -7,7 +7,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 說明 readme:
 # [按這裏看指南 (read user guide by clicking here)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
-you may check [here](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) to know what homebrew app included in ShallowSea
+* you may check [here](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) to know what homebrew apps are included in ShallowSea
 # Feature
 * always up-to-date atmosphere with sigpatch
 * incognito exosphere.ini & 90dns host applied with atmosphere
