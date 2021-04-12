@@ -11,11 +11,9 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * always up-to-date atmosphere with sigpatch
 * incognito exosphere.ini & 90dns host applied with atmosphere
 * I have already setup hbg shop , [here is the setting](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
-#
 
-# To do list
-* bat file
-* a online updater for ShallowSea
+# Donations 捐款
+-你們的money就是我更新整合包最大的動力XD-
 
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 我 me
