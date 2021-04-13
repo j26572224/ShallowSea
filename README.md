@@ -16,7 +16,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 # Donations 捐款
 ### 歡迎捐款😊
-* [Alipay]
+* [Alipay](https://user-images.githubusercontent.com/64573431/114517581-0ee41c00-9c71-11eb-8230-d6b029fc9cc2.jpg)
 
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 我 me
