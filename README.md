@@ -19,6 +19,9 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * [支付寶 Alipay](https://user-images.githubusercontent.com/64573431/114517581-0ee41c00-9c71-11eb-8230-d6b029fc9cc2.jpg)
 * [銀行卡 Bank card](https://user-images.githubusercontent.com/64573431/114518848-5fa84480-9c72-11eb-95aa-7809a6e3332d.jpg)
 
+# To do list
+* create wiki to tidy up readme file
+
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 我 me
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme (making the custom bootlogo & hbmenu theme for aio package.)
