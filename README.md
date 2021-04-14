@@ -22,6 +22,9 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # To do list
 * create wiki to tidy up readme file
 
+# Liability:
+Nobody is responsible if you lose your data, brick your Switch, get banned, drop your Switch into the toilet, have your Switch stolen by ninjas, etc, except yourself. By using PegaScape or any form of homebrew in any capacity you understand the risks involved with running unsigned code on your Switch.
+
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 我 me
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme (making the custom bootlogo & hbmenu theme for aio package.)
