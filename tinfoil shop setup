@@ -1,9 +1,11 @@
 7/4 update: add Turtle shop
+19/4 update: disabled jits, update tits
 
 # Jits
 Protocol: https
 Host: jits.cc
 Title: Jits
+Enabled: NO
 
 # QuotaShop
 Protocol: https
@@ -45,6 +47,5 @@ Title: UPStash
 
 # Turtle Shop (tits)
 Protocol: https
-Host: tiny.cc
-Path: turtleshop
+Host: titz.ga
 Title: Tits
