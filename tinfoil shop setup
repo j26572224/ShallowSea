@@ -1,11 +1,5 @@
 7/4 update: add Turtle shop
-19/4 update: disabled jits, update tits
-
-# Jits
-Protocol: https
-Host: jits.cc
-Title: Jits
-Enabled: NO
+19/4 update: remove jits, update tits
 
 # QuotaShop
 Protocol: https
