@@ -1,6 +1,6 @@
 7/4 update: add Turtle shop
 19/4 update: remove jits, update tits
-20/4 update pengu shop link
+20/4 update pengu shop link, remove two shop
 
 # QuotaShop
 Protocol: https
@@ -12,12 +12,6 @@ Protocol: https
 Host: tiny.cc
 Path: eeveesaveproject
 Title: Eevee Save Project
-
-# UnderBackup 
-Protocol: https
-Host: rebrand.ly
-Path: UnderBack
-Title: UnderBackup
 
 # ReDUMP SHOP
 Protocol: https
@@ -33,12 +27,6 @@ Title: Pengu shop
 Protocol: https
 Host: stealthshop.ga
 Title: Stealth Shop
-
-# UnderPack
-Protocol: https
-Host: rebrand.ly
-Path: UPStash
-Title: UPStash
 
 # Turtle Shop (tits)
 Protocol: https
