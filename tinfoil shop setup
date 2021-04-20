@@ -1,5 +1,6 @@
 7/4 update: add Turtle shop
 19/4 update: remove jits, update tits
+20/4 update pengu shop link
 
 # QuotaShop
 Protocol: https
@@ -24,7 +25,7 @@ Host: redump.ga
 Title: ReDUMP Shop
 
 # Pengu shop
-Protocol: http
+Protocol: https
 Host: pengu.ga
 Title: Pengu shop
 
