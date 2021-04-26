@@ -1,4 +1,4 @@
-This guide is updated on 18/4/2021
+This guide is updated on 26/4/2021
 # 目錄 table of contents
 - [大氣層更新整合包指南 Atmosphere update aio-package guide](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 - [sxos更新整合包指南 sxos update aio-package guide](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#sxos%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-sxos-update-aio-package-guide)
@@ -39,12 +39,12 @@ This guide is updated on 18/4/2021
 | 中文 | English |
 | --- | ------- |
 | 1. 先到sxos破解系統用JKSV備份存檔 | get into sxos cfw & use JKSV to backup game save if possible |
-| 2. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT | (sx core/lite user need to to this step)
-| 3. 保留Nintendo，license.dat，JKSV | ……
-| 4. 解壓縮[大氣層整合包](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide) | ……
-| 5. 正常開機(軟破機需注入payload.bin)會進入hekate menu | ……
-| 6. (sxos有虛擬系統才需做此步驟)，[點擊查看步驟](https://github.com/carcaschoi/ShallowSea/blob/main/create%20emuMMC%20guide%20(Chinese).md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E5%89%B5%E5%BB%BAsd-file-%E8%99%9B%E6%93%AC%E7%B3%BB%E7%B5%B1-) | ……
-| 7. 每次開機選launch→CFW Atmosphere | ……
-| *. 如果硬破機出現boot0 error，[點擊查看方法](https://www.sthetix.info/generating-a-fresh-boot0-from-scratch-fix-your-switch-now/) | …… |
-| 8. 完成😎 | ……
-| 9. 有需要的話可以用JKSV還原存檔 | ……
+| 2. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT | (sx core/lite user need to to this step) use sxos 3.1.0 to get into sxos menu. Chooe options sx core clean up. Then choose nand repair GPT |
+| 3. 保留Nintendo，license.dat，JKSV | Keep [Nintendo, license.dat, JKSV] and delete other file |
+| 4. 解壓縮[大氣層整合包](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide) | Download & unzip [AMS package](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide) |
+| 5. 正常開機(軟破機需注入payload.bin)會進入hekate menu | It will boot to hekate menu when you turn on switch (RCM switch need to inject payload.bin)
+| 6. (sxos有虛擬系統才需做此步驟)，[點擊查看步驟](https://github.com/carcaschoi/ShallowSea/blob/main/create%20emuMMC%20guide%20(Chinese).md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E5%89%B5%E5%BB%BAsd-file-%E8%99%9B%E6%93%AC%E7%B3%BB%E7%B5%B1-) | (you need to do this step if you have emuMMC when you are using sxos before) create emuMMC in hekate menu |
+| 7. 每次開機選launch→CFW Atmosphere | press launch CFW Atmosphere |
+| * . 如果硬破機出現boot0 error，[點擊查看方法](https://www.sthetix.info/generating-a-fresh-boot0-from-scratch-fix-your-switch-now/) | Follow [this guide](https://www.sthetix.info/generating-a-fresh-boot0-from-scratch-fix-your-switch-now/) if you have boot0 error |
+| 8. 完成😎 | Finished😎
+| 9. 有需要的話可以用JKSV還原存檔 | use JKSV to restore game saves if you needed
