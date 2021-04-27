@@ -1,6 +1,7 @@
 7/4 update: add Turtle shop
 19/4 update: remove jits, update tits
 20/4 update pengu shop link, remove two shop
+27/4 : add back a shop
 
 # QuotaShop
 Protocol: https
@@ -32,3 +33,9 @@ Title: Stealth Shop
 Protocol: https
 Host: titz.ga
 Title: Tits
+
+# UnderPrivileged Shop
+Protocol: https
+Host: rebrand.ly
+Path: UPStash
+Title: UnderPrivileged Shop
