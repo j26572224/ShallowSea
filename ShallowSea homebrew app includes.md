@@ -49,6 +49,8 @@
 | [sx gear](https://sx.xecuter.com) | redirect sxos payload to hekate payload |
 | some nsp forwarder in (NSP) folder | run some homebrew app on non-applet mode |
 
+and much more......
+
 # sxos整合包包括 sxos package includes :
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
@@ -88,3 +90,5 @@
 | [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
 | [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | toggle sysmodule on or off |
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
+
+and much more......
