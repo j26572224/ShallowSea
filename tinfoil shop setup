@@ -1,7 +1,4 @@
-7/4 update: add Turtle shop
-19/4 update: remove jits, update tits
-20/4 update pengu shop link, remove two shop
-27/4 : add back a shop
+1/5 add one more link (tits)
 
 # QuotaShop
 Protocol: https
@@ -29,10 +26,16 @@ Protocol: https
 Host: stealthshop.ga
 Title: Stealth Shop
 
-# Turtle Shop (tits)
+# Turtle Shop (tits) 1
 Protocol: https
 Host: titz.ga
-Title: Tits
+Title: tits1
+
+# Turtle Shop (tits) 2
+Protocol: https
+Host: tiny.cc
+Path: turtleshop
+Title: tits2
 
 # UnderPrivileged Shop
 Protocol: https
