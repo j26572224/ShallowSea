@@ -5,13 +5,12 @@
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | Block Big N connection & avoid to get ban from Big N |
 | 90dns host | new function of atmosphere 0.18.0. Block Big N connection & avoid to get ban from Big N |
-| [BootSoundNX](https://github.com/KranKRival/BootSoundNX) | plays sound on the nintendo switch boot |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)) | download piracy games directly to switch |
 | [Nightfall(run it on non-applet mode)(only support atmosphere)](https://github.com/D3fau4/NightFall) | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
 | [HekateBrew](https://github.com/bemardev/HekateBrew/) | check it from [here](https://github.com/bemardev/HekateBrew/#features) |
 | [amiigo](https://github.com/CompSciOrBust/Amiigo) | A GUI for Emuiibo |
-| [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
+| [AtmoXL-Titel-Installer](https://github.com/dezem/AtmoXL-Titel-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
 | [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
 | [ftpd pro](https://github.com/mtheall/ftpd) | Allows file transfer over local network via ftp | 
 | [idn_mitm](https://github.com/spacemeowx2/ldn_mitm) | lan play |
@@ -56,8 +55,7 @@ and much more......
 | ---------------- | ------------- |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)) | download piracy games directly to switch |
-| [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
-| [BootSoundNX](https://github.com/KranKRival/BootSoundNX) | plays sound on the nintendo switch boot |
+| [AtmoXL-Titel-Installer](https://github.com/dezem/AtmoXL-Titel-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
 | [HekateBrew](https://github.com/bemardev/HekateBrew/) | check it from [here](https://github.com/bemardev/HekateBrew/#features) |
 | [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
 | [ftpd4sxos](https://github.com/Falki14/ftpd4sxos) | Allows file transfer over local network via ftp | 
