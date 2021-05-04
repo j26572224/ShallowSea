@@ -21,8 +21,10 @@ This guide is updated on 2/5/2021
 
 | 中文指南 | English guide |
 | ------- | ------------- |
-| 1. 從[這裏]()下載ShallowSeaupdaterpc.zip並解壓縮文件到電腦任意位置
-2. aaa | 
+| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」並解壓縮到電腦任意位置 |
+| 2. 從[這裏]()下載ShallowSeaupdaterpc.zip並解壓縮文件到電腦任意位置 | …… |
+| 3. 運行exe文件，按照程式指示，選擇SD卡和ShallowSea-ams整合包文件位置
+| 4. 等待完成更新即可
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
 
 # sxos更新整合包指南(manual) sxos update aio-package guide(manual):
