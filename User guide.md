@@ -10,20 +10,22 @@ This guide is updated on 4/5/2021
 # 大氣層更新整合包指南 Atmosphere update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
-| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載大氣層整合包 | 1. Download ShallowSea aio package 「Shalloesea-ams.rar」 & 「switch English extra package.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) |
+| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載大氣層整合包 | 1. Download ShallowSea aio package 「Shalloesea-ams.zip」 & 「switch English extra package.zip」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) |
 | 2. SD卡除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾(沒有的可略過)，刪除其餘文件夾。把整合包裏面所有東西解壓縮放到SD卡中。 | 2. Delete all the folders in sd card except (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders or files. Then drapes and drops aio package contents into your sd card. Replace all existing file |
 | ...... | 3. After that extract 「switch English extra package.rar」 into the root of the sd card. Replace all existing file. |
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
 
 # 大氣層更新整合包(ShallowSea-ams updater on window) Atmosphere update aio-package guide (ShallowSea-ams updater on window)
-* update me
+* 此方法不適用第一次使用ShallowSea-ams的用戶，第一次使用整合包的話請跟隨手動方法 
+* This method does not support user who use ShallowSea-ams first time, please use the manual method instead if you want to install ShallowSea-ams package first time
 
 | 中文指南 | English guide |
 | ------- | ------------- |
-| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」並解壓縮到電腦任意位置 |
-| 2. 從[這裏]()下載ShallowSeaupdaterpc.zip並解壓縮文件到電腦任意位置 | …… |
-| 3. 運行exe文件，按照程式指示，選擇SD卡和ShallowSea-ams整合包文件位置
-| 4. 等待完成更新即可
+| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」並解壓縮到電腦任意位置 | 1. Download atmosphere package 「ShallowSea-ams.zip」from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) & unzip it to anyplace of pc
+| 2. 從[這裏](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest)下載ShallowSeaupdaterpc.zip並解壓縮文件到電腦任意位置 | 2. Download 「ShallowSeaupdaterpc.zip」from [here](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest) & unzip it to anyplace of pc|
+| 3. 運行exe文件，按照程式指示，選擇SD卡和ShallowSea-ams整合包文件位置 | 3. Run exe file. Follow the app instructions and choose your sd card drive and ShallowSea-ams file path
+| 4. 等待完成更新即可 | 4. wait until it finished the process
+| …… | 5. Download 「switch_English_extra_package.zip」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest). Then unzip it to the root of the sd card. Replace all existing file. |
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
 
 # sxos更新整合包指南(manual) sxos update aio-package guide(manual):
