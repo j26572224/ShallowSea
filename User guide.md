@@ -1,8 +1,8 @@
-This guide is updated on 2/5/2021
+This guide is updated on 4/5/2021
 # 目錄 table of contents
-- [大氣層更新整合包(manual) Atmosphere update aio-package guide (manual)](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
+- [大氣層更新整合包(手動) Atmosphere update aio-package guide (manual)](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 - [大氣層更新整合包(ShallowSea更新器window exe) Atmosphere update aio-package guide (ShallowSea-ams updater exe)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85shallowsea-ams-updater-on-window-atmosphere-update-aio-package-guide-shallowsea-ams-updater-on-window)
-- [sxos更新整合包(manual) sxos update aio-package guide(manual)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#sxos%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-sxos-update-aio-package-guide)
+- [sxos更新整合包(手動) sxos update aio-package guide(manual)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#sxos%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-sxos-update-aio-package-guide)
 - [ShallowSea使用方法 How to use ShallowSea](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use)
 - [sxos轉大氣層指南 Change sxos to atmosphere](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#sxos%E8%BD%89%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%8C%87%E5%8D%97-change-sxos-to-atmosphere)
 - [魔改sxos 3.1.0以支持11.0.1 modify sxos 3.1.0 to support 11.0.1](https://www.sthetix.info/how-to-run-the-sxos-on-firmware-11-0-1/)
@@ -10,10 +10,9 @@ This guide is updated on 2/5/2021
 # 大氣層更新整合包指南 Atmosphere update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
-| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」，並從[這裡](https://github.com/carcaschoi/rcmloader-package)下載rcmloader注入器整合包 | 1. Download ShallowSea aio package 「Shalloesea-ams.rar」 & 「switch English extra package.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) , and also download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package) (optional) |
+| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載大氣層整合包 | 1. Download ShallowSea aio package 「Shalloesea-ams.rar」 & 「switch English extra package.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) |
 | 2. SD卡除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾(沒有的可略過)，刪除其餘文件夾。把整合包裏面所有東西解壓縮放到SD卡中。 | 2. Delete all the folders in sd card except (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders or files. Then drapes and drops aio package contents into your sd card. Replace all existing file |
 | ...... | 3. After that extract 「switch English extra package.rar」 into the root of the sd card. Replace all existing file. |
-| 3. 如果你有注入器，請把[注入器整合包](https://github.com/carcaschoi/rcmloader-package)解壓縮到注入器 | 4. extract [rcmloader package](https://github.com/carcaschoi/rcmloader-package) to your rcmloader if u have it |
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
 
 # 大氣層更新整合包(ShallowSea-ams updater on window) Atmosphere update aio-package guide (ShallowSea-ams updater on window)
