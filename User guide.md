@@ -1,4 +1,4 @@
-This guide is updated on 4/5/2021
+This guide is updated on 6/5/2021
 # 目錄 table of contents
 - [大氣層更新整合包(手動) Atmosphere update aio-package guide (manual)](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 - [大氣層更新整合包(ShallowSea更新器exe) Atmosphere update aio-package guide (ShallowSea-ams updater exe)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85shallowsea-ams-updater-on-window-atmosphere-update-aio-package-guide-shallowsea-ams-updater-on-window)
