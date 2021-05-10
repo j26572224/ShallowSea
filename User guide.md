@@ -23,7 +23,7 @@ This guide is updated on 10/5/2021
 | 中文指南 | English guide |
 | ------- | ------------- |
 | 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」並解壓縮到電腦任意位置 | 1. Download atmosphere package 「ShallowSea-ams.zip」from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) & unzip it to anyplace of pc
-| 2. 從[這裏](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest)下載ShallowSeaupdaterpc.zip並解壓縮文件到電腦任意位置 | 2. Download 「ShallowSeaupdaterpc.zip」from [here](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest) & unzip it to anyplace of pc|
+| 2. 從[這裏](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest)下載ShallowSeaupdaterpc.zip並解壓縮文件到電腦任意位置 | 2. Download 「ShallowSeaupdaterpc.zip」from [here](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest) & unzip it to anyplace of pc|
 | 3. 運行exe文件，按照程式指示，選擇SD卡和ShallowSea-ams整合包文件位置 | 3. Run exe file. Follow the app instructions and choose your sd card drive and ShallowSea-ams file path
 | 4. 等待完成更新即可 | 4. wait until it finished the process
 | …… | 5. Download 「switch_English_extra_package.zip」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest). Then unzip it to the root of the sd card. Replace all existing file. |
