@@ -32,3 +32,9 @@
 | ...... | 3. After that extract 「switch English extra package.rar」 into the root of the sd card. Replace all existing file. |
 | 3. 如果你有注入器，請把[注入器整合包](https://github.com/carcaschoi/rcmloader-package)解壓縮到注入器 | 4. extract [rcmloader package](https://github.com/carcaschoi/rcmloader-package) to your rcmloader if u have it |
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
+
+-----
+
+[CFW SXOS]
+payload=sxos/reboot_payload.bin
+icon=bootloader/res/SXOS.bmp
