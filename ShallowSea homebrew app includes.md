@@ -50,7 +50,7 @@
 
 and much more......
 
-# sxos整合包包括 sxos package includes :
+# (outdated) sxos整合包包括 sxos package includes (outdated) :
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
