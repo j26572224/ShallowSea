@@ -1,11 +1,10 @@
 ![ShallowSea image](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
+# [按這裏看指南 (read user guide by clicking here)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
-The new All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primary version).
+The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primary version).
+### 我的youtube頻道:https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (主要有NS方面擴展軟件使用方法😄)
 * You can download rcmloader package(注入器整合包) from [here](https://github.com/carcaschoi/rcmloader-package)
 * You can download switch firmware(系統固件) from [here](https://darthsternie.net/switch-firmwares/)
-
-說明 readme:
-# [按這裏看指南 (read user guide by clicking here)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 * you may check [here](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) to know what homebrew apps are included in ShallowSea
 # Feature
 * always up-to-date atmosphere with sigpatch
