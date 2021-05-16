@@ -18,7 +18,6 @@ The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primar
 
 # If you want to use nintendo switch online feature with a hacked switch...
 ## Note:  Very high risk to get ban
-* Very high risk to get ban
 If you want your switch get ban, You can use this fork: https://github.com/yanisdreemurr/ShallowSea-Online-Fork
 
 
