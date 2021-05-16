@@ -16,7 +16,7 @@ The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primar
 * [支付寶 Alipay](https://user-images.githubusercontent.com/64573431/114517581-0ee41c00-9c71-11eb-8230-d6b029fc9cc2.jpg)
 * [銀行卡 Bank card](https://user-images.githubusercontent.com/64573431/114518848-5fa84480-9c72-11eb-95aa-7809a6e3332d.jpg) - Chan Wai Hing
 
-# If you want to use nintendo switch online feature with a hacked switch...
+# If you want to use [nintendo switch online(NSO)] feature with a hacked switch...
 ## Note:  Very high risk to get ban
 If you want your switch get ban, You can use this fork: https://github.com/yanisdreemurr/ShallowSea-Online-Fork)
 * I will not be responsible for anything(include your switch getting ban from Nintendo) if you use [this fork](https://github.com/yanisdreemurr/ShallowSea-Online-Fork)
