@@ -1,4 +1,4 @@
-This guide is updated on 10/5/2021
+This guide is updated on 20/5/2021
 # 目錄 table of contents
 - [大氣層更新整合包(手動) Atmosphere update aio-package guide (manual)](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 - [大氣層更新整合包(ShallowSea-updater-pc) Atmosphere update aio-package guide (ShallowSea-updater-pc)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85shallowsea-updater-pc-atmosphere-update-aio-package-guide-shallowsea-updater-pc)
@@ -30,6 +30,7 @@ This guide is updated on 10/5/2021
 # 使用方法 How to use:
 | 中文 | English |
 | --- | ------- |
+| * 硬破機不需做1.1/1.2步 | modchip switch don't need to do steps 1.1/1.2 |
 | 1.1 . 用[tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest)注入release附有的payload.bin(the same payload in every releases, no any update)  | 1.1 . use [tegrarcmgui](https://github.com/eliboa/TegraRcmGUI/releases/latest) to inject the payload.bin enclose the releases(the same payload in every releases, no any update) |
 | 1.2 . 或者[更新注入器檔案](https://github.com/carcaschoi/rcmloader-package)後，使用rcmloader注入(使用藍燈) | 1.2 . or using rcmloader(blue light) to inject payload after [updating rcmloader file](https://github.com/carcaschoi/rcmloader-package)
 | 2. 進入hekate menu | 2. get into hekate menu |
