@@ -8,7 +8,7 @@ The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primar
 ### 我的youtube頻道: https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (主要有NS方面擴展軟件使用方法😄)
 # Feature
 * always up-to-date atmosphere with sigpatch
-* incognito exosphere.ini & 90dns host applied with atmosphere
+* Incognito & 90dns host applied on both sysnand and emuMMC
 * I have already setup hbg shop , [here is the setting](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
 
 # Donations 捐款
