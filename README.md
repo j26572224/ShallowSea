@@ -6,6 +6,7 @@ The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primar
 * You can download switch firmware(系統固件) from [here](https://darthsternie.net/switch-firmwares/)
 * you may check [here](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) to know what homebrew apps are included in ShallowSea
 ### 我的youtube頻道: https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (主要有NS方面擴展軟件使用方法😄)
+If you find some interesting or useful homebrew app, you can contact me and I may add them into ShallowSea
 # Feature
 * always up-to-date atmosphere with sigpatch
 * Incognito & 90dns host applied on both sysnand and emuMMC
@@ -21,8 +22,7 @@ The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primar
 * choose a license
 
 # Liability:
-Nobody is responsible if you lose your data, brick your Switch, get banned, drop your Switch into the toilet, have your Switch stolen by ninjas, [etc 1](https://www.youtube.com/watch?v=XnwvYiMK3ik) [etc 2](https://www.youtube.com/watch?v=6X5kP6NjDTw), except yourself. By using ShallowSea or any form of homebrew in any capacity you understand the risks involved with running unsigned code on your Switch.
-
+Nobody is responsible if you lose your data, brick your Switch, get banned(although ShallowSea has ban protection), drop your Switch into the toilet, have your Switch stolen by ninjas, [etc 1](https://www.youtube.com/watch?v=XnwvYiMK3ik) [etc 2](https://www.youtube.com/watch?v=6X5kP6NjDTw), except yourself. By using ShallowSea or any form of homebrew in any capacity you understand the risks involved with running unsigned code on your Switch.
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 我 me
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme (making the custom bootlogo & hbmenu theme for aio package.)
