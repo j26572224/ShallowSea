@@ -18,6 +18,7 @@ The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primar
 
 # To do list
 * create wiki to tidy up readme file
+* choose a license
 
 # Liability:
 Nobody is responsible if you lose your data, brick your Switch, get banned, drop your Switch into the toilet, have your Switch stolen by ninjas, [etc 1](https://www.youtube.com/watch?v=XnwvYiMK3ik) [etc 2](https://www.youtube.com/watch?v=6X5kP6NjDTw), except yourself. By using ShallowSea or any form of homebrew in any capacity you understand the risks involved with running unsigned code on your Switch.
