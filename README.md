@@ -5,10 +5,8 @@ Language support: English / French / etc....
 # ShallowSea
 Nintendo Switch with Atmosphere 一体机 CFW 包（fusee 初级版)。
 
-支持 erista(v1) 和 mariko(v2) 切换 
-
-（只有v1 unpatched switch可以使用fusee-gelee。v1 patched或v2 console需要modchip)。
-* 您可以下载 rcmloader 包(注入器整合包) 从 [这里](https://github.com/carcaschoi/rcmloader-package)
+支持 erista(v1) 和 mariko(v2 switch
+*[这里](https://github.com/carcaschoi/rcmloader-package)
 * 您可以下载交换机固件(系統固件) 从  [这里](https://darthsternie.net/switch-firmwares/)
 * 您可以查看  [这里](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) ShallowSea 中包含哪些自制应用程序
 ### 我的youtube頻道: https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (主要有NS方面擴展軟件使用方法😄)
@@ -24,13 +22,13 @@ Nintendo Switch with Atmosphere 一体机 CFW 包（fusee 初级版)。
 * [銀行卡](https://user-images.githubusercontent.com/64573431/114518848-5fa84480-9c72-11eb-95aa-7809a6e3332d.jpg) - Chan Wai Hing
 
 # 待办事项清单:
-* 创建 wiki 来整理自述文件
+* 整理Readme文件
 * 选择许可证
 
 # 责任:
 如果您丢失数据、损坏您的 Switch、被禁止（尽管 ShallowSea 有禁令保护）、将您的 Switch 掉进马桶、让您的 Switch 被忍者偷走等 [1](https://www.youtube.com/watch?v=XnwvYiMK3ik) 等 [2](https://www.youtube.com/watch?v=6X5kP6NjDTw)，除了您自己之外，没有人负责。 通过以任何身份使用 ShallowSea 或任何形式的自制软件，您可以了解在 Switch 上运行未签名代码所涉及的风险。 
 # Credit:
-* [@carcaschoi](https://github.com/carcaschoi) 一 维护 ShallowSea aio 包 :)
+* [@carcaschoi](https://github.com/carcaschoi) 一 维护 ShallowSea整合包 :)
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme
 * [91wii論壇網友分析ShallowSea整合包](
 https://www.91wii.com/thread-231061-1-1.html) 感谢91wii论坛坛友進行詳細分析和建议
