@@ -3,7 +3,7 @@ Readme support: [English](https://github.com/carcaschoi/ShallowSea/blob/main/REA
 ![ShallowSea image](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
 # [按這裏看指南](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
-Nintendo Switch with Atmosphere 一体机 CFW 包（fusee 初级版)。
+Nintendo Switch with Atmosphere switch CFW 包（fusee-primary)。
 
 支持 erista(v1) 和 mariko(v2 switch
 *[这里](https://github.com/carcaschoi/rcmloader-package)
