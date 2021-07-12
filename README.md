@@ -6,14 +6,15 @@ Readme support: [English](https://github.com/carcaschoi/ShallowSea/blob/main/REA
 Nintendo Switch大氣層整合包（fusee-primary and hekate as chainloader) for my personal use。
 
 支持 erista(v1) 和 mariko(v2 switch
-* 你可以在[這裏](https://github.com/carcaschoi/rcmloader-package)下載r「://darthsternie.net/switch-firmwares/)
-* 您可以查看  [这里](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) ShallowSea 中包含哪些自制应用程序
+* 你可以在[這裏](https://github.com/carcaschoi/rcmloader-package)下載rcmloader整合包
+* 你可以在[這裏](https://darthsternie.net/switch-firmwares/)switch系統固件
+* 您可以在[這裏](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.)查看ShallowSea整合包含哪些自制軟件
 ### 我的youtube頻道: https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (主要有NS方面擴展軟件使用方法😄)
-如果你发现一些有趣或有用的自制应用程序，你可以联系我，我可能会将它们添加到 ShallowSea
-# 特征
-* 使用 sigpatch 始终保持最新的氛围
-* (Ban protection) Incognito & 90dns host 应用在 sysnand 和 emuMMC
-* 我已经设置了hbg shop，[这里是设置](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
+如果你發現一些有趣或有用的自制应用程序，你可以聯絡我，我可能會把它们添加到 ShallowSea
+# 特點
+* 使用最新版本的大氣層和sigpatch簽名補丁
+* (防ban保護) Incognito & 90dns host在 sysnand 和 emuMMC生效
+* 我已經設置了黑商店，[這裏是設定](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
 
 # 捐款
 ### 歡迎捐款😊
@@ -25,7 +26,7 @@ Nintendo Switch大氣層整合包（fusee-primary and hekate as chainloader) for
 * 选择许可证
 
 # 责任:
-如果您丢失数据、损坏您的 Switch、被禁止（尽管 ShallowSea 有禁令保护）、将您的 Switch 掉进马桶、让您的 Switch 被忍者偷走等 [1](https://www.youtube.com/watch?v=XnwvYiMK3ik) 等 [2](https://www.youtube.com/watch?v=6X5kP6NjDTw)，除了您自己之外，没有人负责。 通过以任何身份使用 ShallowSea 或任何形式的自制软件，您可以了解在 Switch 上运行未签名代码所涉及的风险。 
+如果您丟失數據、弄壞您的Switch、被任天堂ban機（尽管 ShallowSea 有禁令保护）、将您的 Switch 掉进马桶、让您的 Switch 被忍者偷走等 [1](https://www.youtube.com/watch?v=XnwvYiMK3ik) 等 [2](https://www.youtube.com/watch?v=6X5kP6NjDTw)，除了您自己之外，没有人负责。 通过以任何身份使用 ShallowSea 或任何形式的自制软件，您可以了解在 Switch 上运行未签名代码所涉及的风险。 
 # Credit:
 * [@carcaschoi](https://github.com/carcaschoi) 一 维护 ShallowSea整合包 :)
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme
