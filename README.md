@@ -1,11 +1,11 @@
-Readme support: [English](https://github.com/carcaschoi/ShallowSea/blob/main/README-EN.md) / [French](https://github.com/carcaschoi/ShallowSea/blob/main/README-FR.md)
+Readme support(not maintained by me): [English](https://github.com/carcaschoi/ShallowSea/blob/main/README-EN.md) / [French](https://github.com/carcaschoi/ShallowSea/blob/main/README-FR.md)
 
 ![ShallowSea image](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
 # [按這裏看指南](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
 Nintendo Switch大氣層整合包（fusee-primary and hekate as chainloader) for my personal use。
 
-支持 erista(v1) 和 mariko(v2 switch
+支持erista(v1) 和 mariko(v2) switch
 * 你可以在[這裏](https://github.com/carcaschoi/rcmloader-package)下載rcmloader整合包
 * 你可以在[這裏](https://darthsternie.net/switch-firmwares/)switch系統固件
 * 您可以在[這裏](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.)查看ShallowSea整合包含哪些自制軟件
@@ -25,11 +25,11 @@ Nintendo Switch大氣層整合包（fusee-primary and hekate as chainloader) for
 * 整理Readme文件
 * 选择许可证
 
-# 责任:
-如果您丟失數據、弄壞您的Switch、被任天堂ban機（尽管 ShallowSea 有禁令保护）、将您的 Switch 掉进马桶、让您的 Switch 被忍者偷走等 [1](https://www.youtube.com/watch?v=XnwvYiMK3ik) 等 [2](https://www.youtube.com/watch?v=6X5kP6NjDTw)，除了您自己之外，没有人负责。 通过以任何身份使用 ShallowSea 或任何形式的自制软件，您可以了解在 Switch 上运行未签名代码所涉及的风险。 
+# 免責聲明:
+如果您丟失數據、弄壞您的Switch、被任天堂ban機(即使ShallowSea有防ban保護)、把Switch掉進馬桶、Switch被忍者偷走[等](https://www.youtube.com/watch?v=XnwvYiMK3ik)[等](https://www.youtube.com/watch?v=6X5kP6NjDTw)，除了您自己之外，沒有人會負責任。通過任何身份使用ShallowSea或任何形式的自制软件，您必須了解在Switch上運行未簽名代碼所涉及的風險。 
 # Credit:
-* [@carcaschoi](https://github.com/carcaschoi) 一 维护 ShallowSea整合包 :)
-* [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作ShallowSea專用大氣層bootlogo & hbmenu theme
+* [@carcaschoi](https://github.com/carcaschoi) 一 維護ShallowSea整合包 :)
+* [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作專用大氣層bootlogo和hbmenu主題
 * [91wii論壇網友分析ShallowSea整合包](
 https://www.91wii.com/thread-231061-1-1.html) 感谢91wii论坛坛友進行詳細分析和建议
 * [bettydreemurr](https://github.com/bettydreemurr) 一 translate Readme-fr
