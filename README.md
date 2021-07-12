@@ -6,8 +6,7 @@ Readme support: [English](https://github.com/carcaschoi/ShallowSea/blob/main/REA
 Nintendo Switch大氣層整合包（fusee-primary and hekate as chainloader) for my personal use。
 
 支持 erista(v1) 和 mariko(v2 switch
-*[这里](https://github.com/carcaschoi/rcmloader-package)
-* 您可以下载交换机固件(系統固件) 从  [这里](https://darthsternie.net/switch-firmwares/)
+* 你可以在[這裏](https://github.com/carcaschoi/rcmloader-package)下載r「://darthsternie.net/switch-firmwares/)
 * 您可以查看  [这里](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) ShallowSea 中包含哪些自制应用程序
 ### 我的youtube頻道: https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (主要有NS方面擴展軟件使用方法😄)
 如果你发现一些有趣或有用的自制应用程序，你可以联系我，我可能会将它们添加到 ShallowSea
