@@ -43,6 +43,7 @@ This guide is updated on 20/5/2021
 ### First 3 steps use sxos 3.1.0, Then use ShallowSea-ams for later steps
 | 中文 | English |
 | --- | ------- |
+| [影片參考(請點擊)](https://youtu.be/tH9Ln6i63TA) | …… |
 | 1. 先到sxos破解系統用JKSV備份存檔 | get into sxos cfw & use JKSV to backup game save if possible |
 | 2. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up，之後到nand→repair GPT | (sx core/lite user need to to this step) use sxos 3.1.0 to get into sxos menu. Chooe options sx core clean up. Then choose nand repair GPT |
 | 3. 保留Nintendo，license.dat，JKSV | Keep [Nintendo, license.dat, JKSV] and delete other file |
