@@ -1,4 +1,4 @@
-1/5 add one more link (tits)
+18/7/2021 add nekoshop
 
 # QuotaShop
 Protocol: https
@@ -36,6 +36,11 @@ Protocol: https
 Host: tiny.cc
 Path: turtleshop
 Title: tits2
+
+# Nekoshop
+Protocol: https
+Host: nekoshop.ga
+Title: Nekoshop
 
 # UnderPrivileged Shop
 Protocol: https
