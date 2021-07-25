@@ -1,4 +1,4 @@
-This guide is updated on 20/5/2021
+This guide is updated on 25/7/2021
 # 目錄 table of contents
 - [大氣層更新整合包(手動) Atmosphere update aio-package guide (manual)](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 - [大氣層更新整合包(ShallowSea-updater-pc) Atmosphere update aio-package guide (ShallowSea-updater-pc)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85shallowsea-updater-pc-atmosphere-update-aio-package-guide-shallowsea-updater-pc)
@@ -21,8 +21,8 @@ This guide is updated on 20/5/2021
 | 中文指南 | English guide |
 | ------- | ------------- |
 | 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」並解壓縮到電腦任意位置 | 1. Download atmosphere package 「ShallowSea-ams.zip」from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) & unzip it to anyplace of pc
-| 2. 從[這裏](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest)下載ShallowSeaupdaterpc.zip並解壓縮文件到電腦任意位置 | 2. Download 「ShallowSeaupdaterpc.zip」from [here](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest) & unzip it to anyplace of pc|
-| 3. 運行exe文件，按照程式指示，選擇SD卡和ShallowSea-ams整合包文件位置 | 3. Run exe file. Follow the app instructions and choose your sd card drive and ShallowSea-ams file path
+| 2. 從[這裏](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest)下載ShallowSea-updater-pc.zip並解壓縮文件到電腦任意位置 | 2. Download 「ShallowSea-updater-pc.zip」from [here](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest) & unzip it to anyplace of pc|
+| 3. 運行start.bat (macos run the py file)，按照程式指示，選擇SD卡和ShallowSea-ams整合包文件位置 | 3. Run start.bat (macos run the py file). Follow the app instructions and choose your sd card drive and ShallowSea-ams file path
 | 4. 等待完成更新即可 | 4. wait until it finished the process
 | …… | 5. Download 「switch_English_extra_package.zip」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest). Then unzip it to the root of the sd card. Replace all existing file. |
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
