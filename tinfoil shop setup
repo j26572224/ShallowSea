@@ -1,6 +1,6 @@
 https://youtu.be/r0pL_APW4Fo
 
-29/7/2021 update pengu shop and redump shop
+29/7/2021 update pengu shop , redump shop , titz
 28/7/2021 update quotashop
 19/7/2021 add 雷禪商店 Rayzen Shop
 18/7/2021 add nekoshop
@@ -11,7 +11,7 @@ Host: tiny.cc
 Path: Rayzen-vip
 Title: Rayzen Shop
 
-# QuotaShop
+# QuotaShop (Down)
 Protocol: https
 Host: quotashop.cf
 Title: QuotaShop
@@ -32,23 +32,29 @@ Protocol: https
 Host: pengu.us
 Title: Pengu shop
 
-# Stealth Shop
+# Stealth Shop (Down)
 Protocol: https
 Host: stealthshop.ga
 Title: Stealth Shop
 
-# Turtle Shop (tits) 1
+# Turtle Shop (tits) 1 (Down)
 Protocol: https
 Host: titz.ga
 Title: tits1
 
-# Turtle Shop (tits) 2
+# Turtle Shop (tits) 2 (Down)
 Protocol: https
 Host: tiny.cc
 Path: turtleshop
 Title: tits2
 
-# Nekoshop
+# Turtle Shop (tits) 3
+Protocol: https
+Host: rebrand.ly
+Path: titz
+Title: tits3
+
+# Nekoshop (Down)
 Protocol: https
 Host: nekoshop.ga
 Title: Nekoshop
