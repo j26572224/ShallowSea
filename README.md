@@ -3,7 +3,7 @@ Readme support(not maintained by me): [English](https://github.com/carcaschoi/Sh
 ![ShallowSea image](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
 # [按這裏看指南](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
-Nintendo Switch大氣層整合包（fusee-primary and hekate as chainloader) for my personal use。
+Nintendo Switch大氣層整合包（fss0 and hekate as chainloader) for my personal use。
 
 支持erista(v1) 和 mariko(v2) switch
 * 你可以在[這裏](https://github.com/carcaschoi/rcmloader-package)下載rcmloader整合包
