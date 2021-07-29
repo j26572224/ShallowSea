@@ -11,6 +11,11 @@ Host: tiny.cc
 Path: eeveesaveproject
 Title: Eevee Save Project
 
+# Nekoshop
+Protocol: https
+Host: nekoshop.cf
+Title: Nekoshop
+
 # QuotaShop
 Protocol: https
 Host: quotanx.in
@@ -44,11 +49,6 @@ Protocol: https
 Host: rebrand.ly
 Path: UPStash
 Title: UnderPrivileged Shop
-
-# Nekoshop (Down)
-Protocol: https
-Host: nekoshop.ga
-Title: Nekoshop
 
 # Turtle Shop (tits) 1 (Down)
 Protocol: https
