@@ -1,15 +1,20 @@
 https://youtu.be/r0pL_APW4Fo
 
-29/7/2021 update pengu shop , redump shop , titz
+29/7/2021 update pengu shop , redump shop , titz , quotashop
 28/7/2021 update quotashop
 19/7/2021 add 雷禪商店 Rayzen Shop
 18/7/2021 add nekoshop
 
-# Eevee Save Project
+# Eevee Save Project (Auto added by tinfoil)
 Protocol: https
 Host: tiny.cc
 Path: eeveesaveproject
 Title: Eevee Save Project
+
+# QuotaShop
+Protocol: https
+Host: quotanx.in
+Title: QuotaShop
 
 # ReDUMP SHOP
 Protocol: https
@@ -39,11 +44,6 @@ Protocol: https
 Host: rebrand.ly
 Path: UPStash
 Title: UnderPrivileged Shop
-
-# QuotaShop (Down)
-Protocol: https
-Host: quotashop.cf
-Title: QuotaShop
 
 # Nekoshop (Down)
 Protocol: https
