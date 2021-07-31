@@ -1,7 +1,7 @@
 ![ShallowSea image](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
 # [Read user guide by clicking here](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
-The All-in-One CFW package for the Nintendo Switch with Atmosphere (fusee primary version). 
+The All-in-One CFW package for the Nintendo Switch with Atmosphere (fss0 version). 
 
 Support both erista(v1) and mariko(v2) switch
 
