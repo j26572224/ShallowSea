@@ -1,15 +1,19 @@
 Youtube Video: https://www.youtube.com/watch?v=Cb1uXgZBcYw&t=0s
 
+1/8/2021 update stealthshop
 29/7/2021 update pengu shop , redump shop , titz , quotashop
 28/7/2021 update quotashop
-19/7/2021 add 雷禪商店 Rayzen Shop
-18/7/2021 add nekoshop
 
 # Eevee Save Project (Auto added by tinfoil)
 Protocol: https
 Host: tiny.cc
 Path: eeveesaveproject
 Title: Eevee Save Project
+
+# Stealth Shop
+Protocol: https
+Host: stealthshop.cf
+Title: Stealth Shop
 
 # Nekoshop
 Protocol: https
@@ -50,18 +54,9 @@ Host: rebrand.ly
 Path: UPStash
 Title: UnderPrivileged Shop
 
-# Turtle Shop (tits) 1 (Down)
-Protocol: https
-Host: titz.ga
-Title: tits1
-
 # Turtle Shop (tits) 2 (useless)
 Protocol: https
 Host: tiny.cc
 Path: turtleshop
 Title: tits2
 
-# Stealth Shop (Down)
-Protocol: https
-Host: stealthshop.ga
-Title: Stealth Shop
