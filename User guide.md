@@ -58,6 +58,11 @@ This guide is updated on 25/7/2021
 
 # 如果你想用真實破解系統並聯網遊玩 If you want to use sysnand CFW online
 ### Warning: If you use CFW to go online(especially Nintendo switch online), you may get banned. And if you install pirate games and play it online, you _MUST GET BANNED_
-| --- |
-| If you want to use shallowsea safely, you should make emunand and launch it by 「CFW Atmosphere (fss0)」 |
-| Following step will remove the ban protection and allow you to hack sysnand and go online. |
+If you want to use shallowsea safely, you should make emunand and launch it by 「CFW Atmosphere (fss0)」
+
+
+The Following step will remove the ban protection and allow you to hack sysnand and go online.
+
+1. Delete "atmosphere/hosts/sysnand.txt"
+2. Edit "exosphere.ini" with notepad++ , change the line
+3. launch hacked sysnand by choosing 「CFW Sysnand AMS」，It will disable the sigpatches.
