@@ -56,4 +56,5 @@ This guide is updated on 25/7/2021
 | 8. 完成😎 | Finished😎
 | 9. 有需要的話可以用JKSV還原存檔 | use JKSV to restore game saves if you needed
 
-# 如果你想用真實破解系統並聯網 If you want to use sysnand CFW online
+# 如果你想用真實破解系統並聯網遊玩 If you want to use sysnand CFW online
+### If you use CFW to go online(especially Nintendo switch online), you may get banned. And if you install pirate games and play it online, you _MUST GET BANNED_
