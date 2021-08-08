@@ -35,11 +35,10 @@ Protocol: https
 Host: pengu.us
 Title: Pengu shop
 
-# Turtle Shop (tits) 3
+# Turtle Shop (tits)
 Protocol: https
-Host: rebrand.ly
-Path: titz
-Title: tits3
+Host: titz.cf
+Title: tits
 
 ---Backup---
 # 雷禪商店 Rayzen Shop (cannot use, fuck you)
