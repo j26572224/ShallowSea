@@ -1,7 +1,7 @@
 ![Imagen de ShallowSea](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
 # [Lea la guía del usuario haciendo clic aquí](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
-El paquete CFW todo en uno para Nintendo Switch con atmósfera (versión primaria de Fusee).
+El paquete CFW todo en uno para Nintendo Switch con atmosphere (versión primaria de Fusee).
 
 Admite conmutadores erista (v1) y mariko (v2)
 
@@ -30,4 +30,4 @@ Nadie es responsable si pierde sus datos, rompe su Switch, es baneado (aunque Sh
 # Crédito:
 * [@carcaschoi](https://github.com/carcaschoi) 一 Mantener el paquete aio de ShallowSea :)
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 Creo un logotipo de inicio para atmósfera ShallowSea especial y un tema hbmenu para el paquete de integración de ShallowSea.
-* [91wii論壇網友分析ShallowSea整合包]](https://www.91wii.com/thread-231061-1-1.html) Gracias a los amigos del foro de 91wii por sus análisis detallados y sugerencias.
+* [91wii論壇網友分析ShallowSea整合包](https://www.91wii.com/thread-231061-1-1.html) Gracias a los amigos del foro de 91wii por sus análisis detallados y sugerencias.
