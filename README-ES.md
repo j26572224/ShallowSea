@@ -1,7 +1,7 @@
 ![Imagen de ShallowSea](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
 # [Lea la guía del usuario haciendo clic aquí](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
-El paquete CFW todo en uno para Nintendo Switch con atmósfera (versión primaria de Fusee).
+El paquete CFW todo en uno para Nintendo Switch con atmosphere (versión primaria de Fusee).
 
 Admite conmutadores erista (v1) y mariko (v2)
 
