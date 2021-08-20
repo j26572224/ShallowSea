@@ -1,4 +1,4 @@
-Readme support(not maintained by me): [English](https://github.com/carcaschoi/ShallowSea/blob/main/README-EN.md) / [French](https://github.com/carcaschoi/ShallowSea/blob/main/README-FR.md) / [Spanish](https://github.com/carcaschoi/ShallowSea/blob/main/README-ES.md)
+### Readme support(not maintained by me): [English](https://github.com/carcaschoi/ShallowSea/blob/main/README-EN.md) / [French](https://github.com/carcaschoi/ShallowSea/blob/main/README-FR.md) / [Spanish](https://github.com/carcaschoi/ShallowSea/blob/main/README-ES.md)
 
 ![ShallowSea image](https://user-images.githubusercontent.com/64573431/115142050-358bc380-a072-11eb-855b-357475e4f3d7.jpg)
 # [按這裏看指南](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
@@ -33,3 +33,4 @@ Nintendo Switch大氣層整合包（fss0 and hekate as chainloader) for my perso
 * [91wii論壇網友分析ShallowSea整合包](
 https://www.91wii.com/thread-231061-1-1.html) 感谢91wii论坛坛友進行詳細分析和建议
 * [bettydreemurr](https://github.com/bettydreemurr) 一 translate Readme-fr
+* [camillomurcia](https://github.com/camillomurcia) 一 translate Readme-es
