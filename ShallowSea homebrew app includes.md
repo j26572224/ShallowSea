@@ -1,3 +1,4 @@
+Some homebrew apps may not been added
 # AMS整合包包括AMS package includes:
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
