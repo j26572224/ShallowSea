@@ -1,7 +1,7 @@
 This guide is updated on 8/8/2021
 # 目錄 table of contents
 - [大氣層更新整合包(手動) Atmosphere update aio-package guide (manual)](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
-- [大氣層更新整合包(ShallowSea-updater-pc) Atmosphere update aio-package guide (ShallowSea-updater-pc)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85shallowsea-updater-pc-atmosphere-update-aio-package-guide-shallowsea-updater-pc)
+- [大氣層更新整合包(ShallowSea-updater) Atmosphere update aio-package guide (ShallowSea-updater)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85shallowsea-updater-atmosphere-update-aio-package-guide-shallowsea-updater)
 - [ShallowSea使用方法 How to use ShallowSea](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use)
 - [sxos轉大氣層指南 Change sxos to atmosphere](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#sxos%E8%BD%89%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%8C%87%E5%8D%97-change-sxos-to-atmosphere)
 - [如果你想用真實破解系統聯網 If you want to use sysnand CFW online](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%83%B3%E7%94%A8%E7%9C%9F%E5%AF%A6%E7%A0%B4%E8%A7%A3%E7%B3%BB%E7%B5%B1%E4%B8%A6%E8%81%AF%E7%B6%B2%E9%81%8A%E7%8E%A9-if-you-want-to-use-sysnand-cfw-online)
@@ -14,19 +14,8 @@ This guide is updated on 8/8/2021
 | ...... | 3. After that extract 「switch English extra package.rar」 into the root of the sd card. Replace all existing file. |
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
 
-# 大氣層更新整合包(ShallowSea-updater-pc) Atmosphere update aio-package guide (ShallowSea-updater-pc)
-* This is the ShallowSea updater on window，It will help you to delete and place ShallowSea-ams package to sd card automatically
-* 此方法不適用第一次使用ShallowSea-ams的用戶，第一次使用整合包的話請跟隨手動方法 
-* This method does not support user who use ShallowSea-ams first time, please use the manual method instead if you want to install ShallowSea-ams package first time
-
-| 中文指南 | English guide |
-| ------- | ------------- |
-| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載ShallowSea整合包「Shalloesea-ams.rar」並解壓縮到電腦任意位置 | 1. Download atmosphere package 「ShallowSea-ams.zip」from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) & unzip it to anyplace of pc
-| 2. 從[這裏](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest)下載ShallowSea-updater-pc.zip並解壓縮文件到電腦任意位置 | 2. Download 「ShallowSea-updater-pc.zip」from [here](https://github.com/carcaschoi/ShallowSea-Updater-pc/releases/latest) & unzip it to anyplace of pc|
-| 3. 運行start.bat (macos run the py file)，按照程式指示，選擇SD卡和ShallowSea-ams整合包文件位置 | 3. Run start.bat (macos run the py file). Follow the app instructions and choose your sd card drive and ShallowSea-ams file path
-| 4. 等待完成更新即可 | 4. wait until it finished the process
-| …… | 5. Download 「switch_English_extra_package.zip」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest). Then unzip it to the root of the sd card. Replace all existing file. |
-| [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
+# 大氣層更新整合包(ShallowSea-updater) Atmosphere update aio-package guide (ShallowSea-updater)
+* run the app in the album
 
 # 使用方法 How to use:
 | 中文 | English |
