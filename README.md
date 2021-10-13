@@ -34,5 +34,5 @@ Nintendo Switch大氣層整合包 for my personal use。
 * [@tim22263 梵鈞](https://github.com/tim22263) 一 為ShallowSea整合包製作專用大氣層bootlogo和hbmenu主題
 * [91wii論壇網友分析ShallowSea整合包](
 https://www.91wii.com/thread-231061-1-1.html) 感谢91wii论坛坛友進行詳細分析和建议
-* [bettydreemurr](https://github.com/bettydreemurr) 一 translate Readme-fr
+* [Exorcism](https://github.com/bettydreemurr) 一 translate Readme-fr
 * [camillomurcia](https://github.com/camillomurcia) 一 translate Readme-es
