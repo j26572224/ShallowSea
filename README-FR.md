@@ -1,4 +1,4 @@
-![ShallowSea image](https://user-images.githubusercontent.com/64573431/136920116-59c06923-c6f3-47c7-b372-db7ab6346a1e.png)
+![splash](https://user-images.githubusercontent.com/64573431/137276986-f7c7afb9-d931-411e-b0a1-ba834b5ca1f2.png)
 # [Lire le guide d'utilisation en cliquant ici](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
 # ShallowSea
 Le package CFW tout-en-un pour la Nintendo Switch avec atmosphère (Fusee primary version).
