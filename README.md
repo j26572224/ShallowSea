@@ -19,7 +19,7 @@ Nintendo Switch大氣層整合包 for my personal use。
 # 捐款
 ### 歡迎捐款😊
 * [支付寶](https://user-images.githubusercontent.com/64573431/114517581-0ee41c00-9c71-11eb-8230-d6b029fc9cc2.jpg)
-* [銀行卡](https://user-images.githubusercontent.com/64573431/114518848-5fa84480-9c72-11eb-95aa-7809a6e3332d.jpg) - Chan Wai Hing
+* [銀行卡](https://user-images.githubusercontent.com/64573431/114518848-5fa84480-9c72-11eb-95aa-7809a6e3332d.jpg)
 * Eshop card: If you want to donate money to me but the links above do not work. You can donate eshop card(HK server) to me🤣，My discord username: carcaschoi#7404
 
 # 待办事项清单:
