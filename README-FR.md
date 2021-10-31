@@ -19,7 +19,7 @@ Si vous trouvez une application homebrew intéressante ou utile, vous pouvez me 
 # Donations
 ### Les dons sont les bienvenus! 😊
 * [Alipay](https://user-images.githubusercontent.com/64573431/114517581-0ee41c00-9c71-11eb-8230-d6b029fc9cc2.jpg)
-* [Bank card](https://user-images.githubusercontent.com/64573431/114518848-5fa84480-9c72-11eb-95aa-7809a6e3332d.jpg) - Chan Wai Hing
+* [Bank card](https://user-images.githubusercontent.com/64573431/114518848-5fa84480-9c72-11eb-95aa-7809a6e3332d.jpg)
 * Carte Eshop : Si vous souhaitez me faire un don mais que les liens ci-dessus ne fonctionnent pas. Vous pouvez me faire un don de la carte eshop (serveur HK) 🤣, Mon nom d'utilisateur discord : carcaschoi#7404
 
 # Liste de choses à faire:
