@@ -1,4 +1,4 @@
-This guide is updated on 19/9/2021
+This guide is updated on 12/11/2021
 # 目錄 table of contents
 - [大氣層更新整合包(手動) Atmosphere update aio-package guide (manual)](#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85%E6%8C%87%E5%8D%97-atmosphere-update-aio-package-guide)
 - [大氣層更新整合包(ShallowSea-updater) Atmosphere update aio-package guide (ShallowSea-updater)](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%95%B4%E5%90%88%E5%8C%85shallowsea-updater-atmosphere-update-aio-package-guide-shallowsea-updater)
@@ -9,7 +9,7 @@ This guide is updated on 19/9/2021
 # 大氣層更新整合包指南 Atmosphere update aio-package guide:
 | 中文指南 | English guide |
 | ------ | ------------- |
-| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載大氣層整合包 | 1. Download ShallowSea aio package 「Shalloesea-ams.zip」 & 「switch English extra package.zip」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) |
+| 1. 從[這裡](https://github.com/carcaschoi/ShallowSea/releases/latest)下載大氣層整合包ShallowSea-ams.zip | 1. Download ShallowSea aio package 「Shalloesea-ams.zip」 & 「switch English extra package.zip」 from [here](https://github.com/carcaschoi/ShallowSea/releases/latest) |
 | 2. SD卡除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko，license.dat）文件夾(沒有的可略過)，刪除其餘文件夾。把整合包裏面所有東西解壓縮放到SD卡中。 | 2. Delete all the folders in sd card except (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko，license.dat) folders or files. Then drapes and drops aio package contents into your sd card. Replace all existing file |
 | ...... | 3. After that extract 「switch English extra package.rar」 into the root of the sd card. Replace all existing file. |
 | [點此繼續查看使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) | [press here to continue read the guide (How to use)](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-how-to-use) |
