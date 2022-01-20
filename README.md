@@ -8,13 +8,12 @@ Nintendo Switch大氣層整合包 for my personal use。
 支持erista(v1) 和 mariko(v2) switch
 * 你可以在[這裏](https://github.com/carcaschoi/rcmloader-package)下載rcmloader整合包
 * 你可以在[這裏](https://darthsternie.net/switch-firmwares/)switch系統固件
-* 您可以在[這裏](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md)查看ShallowSea整合包含哪些自制軟件
 ### 我的youtube頻道: https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (主要有NS方面擴展軟件使用方法😄)
 如果你發現一些有趣或有用的自制应用程序，你可以聯絡我，我可能會把它们添加到 ShallowSea
 # 特點
 * 使用最新版本的大氣層和sigpatch簽名補丁
 * (防ban保護) Incognito & 90dns host在 sysnand 和 emuMMC生效
-* 我已經設置了黑商店，[這裏是設定](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
+* 我已經設置了tinfoil，[這裏是設定](https://github.com/carcaschoi/ShallowSea/blob/main/docs/tinfoil%20shop%20setup)
 
 # 捐款
 ### 歡迎捐款😊
