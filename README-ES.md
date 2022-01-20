@@ -8,13 +8,12 @@ Admite conmutadores erista (v1) y mariko (v2)
 (Solo los conmutadores v1 sin parchear pueden usar fusee-gelee. La consola parcheada v1 o v2 requiere un chip).
 * Puede descargar el paquete rcmloader (Injector Integration Pack) desde [aquí](https://github.com/carcaschoi/rcmloader-package)
 * Puede descargar Switch Firmware (firmware del sistema) desde [aquí](https://darthsternie.net/switch-firmwares/)
-* puede consultar [aquí](https://github.com/carcaschoi/ShallowSea/blob/main/ShallowSea%20homebrew%20app%20includes.md) para averiguar qué aplicaciones de homebrew están incluidas en ShallowSea
 ### Mi canal de youtube: https://youtube.com/channel/UCgM5UuqyJQl38V8FI1l0wXw (El aspecto NS extiende principalmente el método de uso del software 😄)
 Si encuentra una aplicación casera interesante o útil, puede contactarme y puedo agregarla a ShallowSea
 # Funcionalidad
 * atmosphere siempre actualizado con sigpatch
 * (Protección de Ban) Incognito y host de 90dns aplicado tanto en sysnand como en emuMMC
-* Configuracion para la tienda hbg, [aquí está la configuración](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup)
+* Configuracion para la tienda hbg, [aquí está la configuración](https://github.com/carcaschoi/ShallowSea/blob/main/docs/tinfoil%20shop%20setup)
 
 # Donaciones
 ### ¡Las donaciones son bienvenidas! 😊
