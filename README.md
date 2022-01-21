@@ -1,7 +1,7 @@
 ### Readme support(not maintained by me): [English](https://github.com/carcaschoi/ShallowSea/blob/main/README-EN.md) / [French](https://github.com/carcaschoi/ShallowSea/blob/main/README-FR.md) / [Spanish](https://github.com/carcaschoi/ShallowSea/blob/main/README-ES.md)
 
 ![splash](https://user-images.githubusercontent.com/64573431/137276986-f7c7afb9-d931-411e-b0a1-ba834b5ca1f2.png)
-# [按這裏看指南](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
+# [按這裏看指南](https://github.com/carcaschoi/ShallowSea/blob/main/docs/User%20guide.md)
 # ShallowSea
 Nintendo Switch大氣層整合包 for my personal use。
 
